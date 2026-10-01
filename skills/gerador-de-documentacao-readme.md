@@ -1,6 +1,6 @@
 ---
-name: gerador-de-documentacao-readme
-description: Gerador de README.md e arquivos de documentação padrão para projetos de desenvolvimento, com foco em .NET, C#, JavaScript e ReactJS.
+name: gerador-de-documentacao-padrao-github
+description: Gerador de arquivos de documentação padrão para projetos de desenvolvimento em repositórios no Github.
 ---
 # Gerador de Documentação README
 Ao pedir para documentar algo em arquivo markdown (especialmente o README.md), analise o projeto aberto e gere a documentação seguindo os padrões de mercado difundidos para construção de arquivos LEIA-ME (README.md) de projetos de desenvolvimento em repositórios públicos do GitHub.
