@@ -1,0 +1,103 @@
+# =============================================
+# .gitignore para repositório de prompts e notas Markdown
+# =============================================
+
+# ─── Obsidian ────────────────────────────────
+.obsidian/
+.trash/
+.stversions/
+*.canvas
+
+# ─── Sistemas Operacionais ───────────────────
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ─── Editores e IDEs ─────────────────────────
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+
+# ─── Arquivos Temporários ─────────────────────
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+*.log
+*.cache
+
+# ─── Exportações e Anexos ─────────────────────
+# Ignorar arquivos de imagem e mídia que não sejam necessários publicamente
+# (descomente se necessário)
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.mp4
+# *.pdf
+
+# ─── Configurações Locais ─────────────────────
+.env
+.env.local
+.env.*.local
+secrets.md
+private/
+_private/
+local/
+
+# ─── Notas Pessoais / Rascunhos ──────────────
+# Adicione padrões de arquivos que não devem ser publicados
+_drafts/
+drafts/
+rascunhos/
+wip/
+
+# ─── Outros ──────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+node_modules/
+_original/
