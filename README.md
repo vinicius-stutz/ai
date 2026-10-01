@@ -1,12 +1,12 @@
-# 🤖 Awesome IA Prompts & Skills
+# 🤖 Awesome AI Prompts & Skills
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![PT-BR](https://img.shields.io/badge/lang-PT--BR-green)](README.md)
 
 **Uma coleção cuidadosamente curada de prompts, skills, configurações e guias para potencializar seu uso de IAs generativas.**
 
 > [!NOTE]
 >
-> Este repositório não é uma [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) list.
-> Bem que poderia ser, mas, além de estar em PT-BR, (ainda) não é 🙂
+> Este repositório não faz parte da lista [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re).
+> Bem que poderia fazer, mas, além de estar em PT-BR, (ainda) não faz 🙂
 
 *Exportado e higienizado a partir de notas reais do [Obsidian](https://obsidian.md/) - conteúdo testado no mundo real.*
 
