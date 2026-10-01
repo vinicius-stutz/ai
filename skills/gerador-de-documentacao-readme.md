@@ -15,38 +15,37 @@ Pensando nos padrões adotados pelo Github, esta skill cria ou atualiza os segui
 ---
 ## O arquivo README.md
 ### Primeira linha do arquivo README.md
-Deve conter a badge de _Build Status_ do projeto, antes até mesmo do título do arquivo (alinhamento à esquerda):
-- **Não monitorado:** dimgray + gray
-- **Sucesso:** dimgray + green
-- **Falha:** dimgray + red
+Um bloco de código contendo uma ASCII Art, dentro do contexto do projeto, criativa (divertida, se possível), que funcione como uma *hero image* para o README.
+
 ### 1. PROJECT TITLE
 Esta seção deve ter seu conteúdo todo centralizado. A primeira linha deve ter uma seção com o Título do Projeto (usando a tag `<h1>`), com o seu conteúdo todo centralizado, contendo informações rápidas resumidas.
 
-A segunda linha deve conter links como:
-- Link para a documentação do projeto (ex: Wiki etc)
-- Link para Issues
-- Link para Pull Requests
+A segunda linha deve conter apenas as PROJECT SHIELDS (em ordem, todos na mesma linha separados apenas por um espaço):
+- `version` (versão do projeto principal)
+- `language` (da stack principal, com a versão)
+- `status build` do projeto - normalmente o usuário informará o serviço com o link da badge, caso contrário, ele informará o status:
+  - **Não monitorado:** dimgray + gray
+  - **Sucesso:** dimgray + green
+  - **Falha:** dimgray + red
+- `license` (licença do projeto)
+- botão *follow* do Github para o owner do repositório, algo como o exemplo `<a href="https://github.com/username" target="_blank"><img src="https://img.shields.io/github/followers/username?label=follow&style=social" height="20" title="Siga-me!" alt="Siga-me!" /></a>`
 
-A última linha desta seção deve conter apenas as PROJECT SHIELDS (em ordem, todos na mesma linha separados apenas por um espaço):
-- `Version` (versão do projeto principal)
-- `Stack` (stack principal, com a versão)
-- `License` (licença do projeto)
-- `Status` (status: "deprecado" ou "ativo")
+A última linha desta seção deve conter links como:
+- Link para a documentação do projeto (ex: uma Wiki dentro do próprio Github Repo etc)
+- Link para Issues (ex: dentro do próprio Github Repo)
+- Link para Pull Requests (ex: dentro do próprio Github Repo)
+- Links para as Release Notes (se existirem)
  
 Exemplo de como devem ficar as primeiras linhas do documento:
 ```html
-<div align="center">
-  <h1>Título do projeto aqui</h1>
-  <p>
-    Descrição breve aqui
-
-    Links aqui
-  </p>
-</div>
-<div align="center"><p></p></div>
-<div align="center">
+<h1 align="center">Título do projeto aqui</h1>
+<p align="center">
   PROJECT SHIELDS aqui
-</div>
+</p>
+
+<p align="center">
+  Links aqui
+</p>
 ```
 
 > A partir daqui o conteúdo não deve mais ser centralizado.
@@ -69,6 +68,7 @@ A seguir, crie uma seção "Índice" (sem título), respeitando o uso de tags HT
 ```
 
 > Tome a liberdade de alterar o índice conforme necessidade, adicionando ou removendo itens, mas sempre respeitando a hierarquia de tags HTML.
+
 ### 3. ABOUT THE PROJECT
 Crie uma seção chamada "Sobre o Projeto", contendo:
 - Breve descrição
@@ -76,6 +76,7 @@ Crie uma seção chamada "Sobre o Projeto", contendo:
 - Contexto de negócio (os problemas que a aplicação resolve)
 - Termos do domínio e seus significados
 - Principais funcionalidades
+
 ### 4. BUILT WITH
 Crie uma seção chamada "Tecnologias", contendo:
 - Estilo arquitetural (Clean Architecture, Layered, Hexagonal, etc.), com um diagrama de camadas (usando Mermaid)
@@ -83,34 +84,40 @@ Crie uma seção chamada "Tecnologias", contendo:
 - Princípios SOLID aplicados (se aplicável para o tipo do projeto)
 - Práticas de Clean Code (se aplicável para o tipo do projeto)
 - Os principais frameworks, linguagens e ferramentas utilizadas no projeto, com links para suas documentações oficiais
+
 #### Resiliência
 Fale resumidamente sobre as práticas de resiliência aplicadas no projeto (se aplicável para o tipo do projeto):
 - Retry policies
 - Circuit breakers
 - Fallback strategies
 - Timeout configurations
+
 #### Observabilidade
 Fale resumidamente sobre as práticas de observabilidade aplicadas no projeto (se aplicável para o tipo do projeto):
 - Logs (estrutura e níveis)
 - Métricas coletadas
 - Traces distribuídos
 - Health checks
+
 #### Escalabilidade
 Fale resumidamente sobre as práticas de escalabilidade aplicadas no projeto (se aplicável para o tipo do projeto):
 - Estratégias de scaling (horizontal/vertical)
 - Stateless/stateful
 - Limitações conhecidas
+
 ### 5. GETTING STARTED
 Crie uma seção chamada "Começando", contendo:
 - Pré-requisitos
 - Instalação
 - Estrutura do Projeto
+
 ### 6. USAGE EXAMPLES
 Crie uma seção chamada "Exemplos de uso", contendo:
 - Uso Básico do Serviço
 - Configuração
 - Trabalhando com Entidades (se aplicável para o tipo do projeto)
 - Diagrama de classes do domínio (usando Mermaid, se aplicável para o tipo do projeto)
+
 ### 7. ROADMAP
 Crie uma seção chamada "Roadmap". Caso o projeto esteja em processo de substituição ou descontinuação, informe explicitamente. Caso contrário, descreva as próximas evoluções planejadas para o projeto, realizando uma análise crítica. As áreas de análise devem ser as seguintes:
 - **Boas Práticas**: Convenções de nomenclatura, uso de features modernas
@@ -134,21 +141,27 @@ Para cada sugestão, inclua:
 - **Benefícios**: Ganhos esperados
 
 > **Importante**: Adote sempre uma visão de tabela para melhor apresentação das informações!
+
 ### 8. CONTRIBUTING
 Crie uma seção chamada "Contribuindo". Deve ter um link para o arquivo CONTRIBUTING.md.
+
 ### 9. LICENSE
 Crie uma seção "Licença" com o tipo de licença do projeto e um link para o arquivo LICENSE.
+
 ### 10. CONTACT
 Crie uma seção "Contato" contendo:
 - O nome da equipe (ou da pessoa) responsável (se não souber, pergunte ao usuário no prompt)
 - Link para o perfil do colaborador no Github (se não souber, pergunte ao usuário no prompt)
 - Links relevantes de documentação e gestão do projeto
+
 ### Últimas linhas do arquivo README.md
 As últimas linhas devem conter:
 - Uma linha separadora
 - Um link para o arquivo CODE_OF_CONDUCT.md
 - Um link para o arquivo SECURITY.md
+
 ---
+
 ## O arquivo CODE_OF_CONDUCT.md
 ```markdown
 # Código de conduta para colaboradores
@@ -188,8 +201,10 @@ A qualidade, estabilidade e segurança do sistema são responsabilidades coletiv
 Onde `{X}` é a quantidade de colaboradores.
 
 ---
+
 ## O arquivo CONTRIBUTING.md
 Este projeto é versionado com git e adota o uso do GitFlow como padrão de branching.
+
 ### Testes unitários
 Se fizer sentido para o tipo de projeto, inclua uma badge de cobertura de testes (gerada via relatório de cobertura) e documente:
 - **Cobertura de Testes**: Percentual e áreas cobertas
@@ -200,10 +215,12 @@ Se fizer sentido para o tipo de projeto, inclua uma badge de cobertura de testes
 - **Gaps de Cobertura**: Áreas não testadas e recomendações
 
 ---
+
 ## O arquivo LICENSE
 Substitua pelo conteúdo de licença adequado ao projeto (MIT, Apache 2.0, GPL, Proprietária etc).
 
 ---
+
 ## O arquivo SECURITY.md
 ```markdown
 # Segurança
@@ -226,14 +243,15 @@ Preferimos que todas as comunicações sejam em português.
 ```
 
 ---
+
 ## Regras de Documentação
-- Não use emojis.
-- Não use o caractere "—". Em seu lugar, use parênteses "()", ponto e vírgula ";" ou dois pontos ":".
+- Todos os arquivos devem ser criados utilizando a codificação **UTF-8** para compatibilidade.
+- Abaixo de cada seção e antes do início da próxima, inclua um link para voltar ao topo.
+- Nunca customize cores no arquivo usando hexadecimal ou RGB(A), apenas adote os 140 possíveis "HTML Color Names".
 - Escreva sempre em português brasileiro (PT-BR).
 - Elimine qualquer linguagem emocional ou informal.
-- Só utilize links nas badges (project shields) se realmente for necessário.
+- Não use o caractere "—". Em seu lugar, onde fizer sentido semanticamente, use parênteses "()", ponto e vírgula ";" ou dois pontos ":".
+- Mantenha tanto o código Markdown quanto o código HTML bem formatado, respeitando a indentação e a hierarquia de tags.
+- Não use muitos emojis, somente onde realmente julgar necessário para chamar atenção ou para facilitar o entendimento.
+- Só utilize links nas badges (project shields) onde for necessário ou solicitado.
 - **Não use** `style=for-the-badge` nas badges.
-- Nunca customize cores no arquivo usando hexadecimal ou RGB(A), apenas adote os 140 possíveis "HTML Color Names".
-- Abaixo de cada seção e antes do início da próxima, inclua um link para voltar ao topo como `<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>`.
-- Mantenha o código Markdown ou HTML bem formatado, respeitando a indentação e a hierarquia de tags.
-- Todos os arquivos devem ser criados utilizando a codificação **UTF-8** para compatibilidade.
