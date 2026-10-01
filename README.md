@@ -1,4 +1,32 @@
 # 🤖 Awesome AI Prompts & Skills
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                              ║
+║    █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗                                             ║
+║   ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝                                             ║
+║   ███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗                                               ║
+║   ██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝                                               ║
+║   ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗                                             ║
+║   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝                                             ║
+║                                                                                                              ║
+║             ┌──────────────────────────────────────────────────────────────────────────────┐                 ║
+║             │                                                                              │                 ║
+║             │   >_ AWESOME AI PROMPTS & SKILLS                                             │                 ║
+║             │                                                                              │                 ║
+║             │   [ PROMPT ] ──► [ ◉ NEURAL CORE ◉ ] ──► [ SKILL ] ──► [ OUTPUT ]            │                 ║
+║             │                    ╱      │      ╲                                           │                 ║
+║             │                  0101    1010    1100                                        │                 ║
+║             │                    ╲      │      ╱                                           │                 ║
+║             │                     ╲────┴─────╱                                             │                 ║
+║             │                       AI ENGINE                                              │                 ║
+║             │                                                                              │                 ║
+║             └──────────────────────────────────────────────────────────────────────────────┘                 ║
+║                                                                                                              ║
+║                    ░▒▓█  PROMPTS  •  SKILLS  •  WORKFLOWS  •  AUTOMATION  █▓▒░                               ║
+║                                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![PT-BR](https://img.shields.io/badge/lang-PT--BR-green)](README.md)
 
 **Uma coleção cuidadosamente curada de prompts, skills, configurações e guias para potencializar seu uso de IAs generativas.**
@@ -260,4 +288,6 @@ Leia o **[Guia de Contribuição](CONTRIBUTING.md)** completo antes de abrir um 
 [MIT License](LICENSE). Sinta-se livre para usar, adaptar e compartilhar.
 
 ---
-Feito com ☕ e muitos prompts testados na prática. **Se este repositório te ajudou, deixe uma ⭐**
+Feito com ☕ e muitos prompts testados na prática.
+
+**Se este repositório te ajudou, deixe uma ⭐**
