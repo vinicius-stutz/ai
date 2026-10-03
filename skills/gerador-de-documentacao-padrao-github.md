@@ -50,19 +50,14 @@ Exemplo de como devem ficar as primeiras linhas do documento:
 
 > A partir daqui o conteúdo não deve mais ser centralizado.
 ### 2. TABLE OF CONTENTS
-A seguir, crie uma seção "Índice" (sem título), respeitando o uso de tags HTML:
+A seguir, crie uma seção "Índice" (ou "Sumário", mas sem o título), respeitando o uso de tags HTML, conforme o exemplo abaixo:
 ```html
 <details>
-  <summary><b>Índice</b></summary>
+  <summary><b>Sumário</b></summary>
   <ol>
-  <li><a href="#sobre-o-projeto">Sobre o Projeto</a></li>
-  <li><a href="#tecnologias">Tecnologias</a></li>
-  <li><a href="#começando">Começando</a></li>
-  <li><a href="#exemplos-de-uso">Exemplos de Uso</a></li>
-  <li><a href="#roadmap">Roadmap</a></li>
-  <li><a href="#contribuindo">Contribuindo</a></li>
-  <li><a href="#licença">Licença</a></li>
-  <li><a href="#contato">Contato</a></li>
+    <li><a href="#section-01-aqui">Section 01 Aqui</a></li>
+    <!-- ... -->
+    <li><a href="#section-10-aqui">Section 10 Aqui</a></li>
   </ol>
 </details>
 ```
