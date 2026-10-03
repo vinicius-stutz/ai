@@ -12,8 +12,9 @@ Como se trata de uma base de conhecimento em constante atualização, apenas o c
 ## Como reportar uma vulnerabilidade
 Se você identificou uma falha ou risco de segurança neste repositório:
 1. **Não abra uma Issue pública** imediatamente se a falha puder induzir leitores a riscos graves (como execução de scripts ou links maliciosos ativos).
-2. Utilize o recurso nativo de **[Security Advisory privado do GitHub](https://docs.github.com/pt/code-security/security-advisories/guidance-on-reporting-and-communicating-about-vulnerabilities)** (disponível na aba *Security > Report a vulnerability* do repositório).
+2. Entre em contato por meio do **[formulário em meu website pessoal](https://vinici.us.com/#contact)**.
 3. Inclua na mensagem:
-   - O arquivo e a linha onde o problema foi encontrado.
-   - Uma breve explicação do risco de segurança (ex: por que aquele comando ou link pode ser perigoso).
+   - Endereço do repositório;
+   - O arquivo e a linha onde o problema foi encontrado;
+   - Uma breve explicação do risco de segurança (ex: por que aquele comando ou link pode ser perigoso);
    - Sugestão de correção (opcional, mas muito bem-vinda).
