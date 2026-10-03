@@ -58,7 +58,7 @@ Aqui você encontra **prompts com propósito**, organizados por objetivo real - 
 │   ├── 📚 learn/            # Aprendizado acelerado e estudos
 │   ├── 🏢 management/       # Gestão de pessoas, tempo e reuniões
 │   ├── 🧘 personal/         # Vida pessoal e produtividade
-│   └── ✍️  text/            # Escrita, comunicação e copywriting
+│   └── ✍️ text/             # Escrita, comunicação e copywriting
 ├── 📁 skills/               # Skills para Claude Code e agentes de IA
 └── 📁 tips/                 # Dicas práticas de ferramentas e IA
 ```
