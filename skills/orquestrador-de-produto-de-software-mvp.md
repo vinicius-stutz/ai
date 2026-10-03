@@ -12,7 +12,6 @@ Use esta skill para criar, planejar e especificar um produto de software complet
 - **Definition of Done (DoD):** Para avançar de fase, você deve apresentar o resumo da fase atual e exigir uma confirmação explícita ("Aprovado") do usuário.
 
 ## 2. Fases do Ciclo de Vida do Produto
-
 ### Fase 0: Constituição do Projeto
 Defina a natureza do ambiente de desenvolvimento.
 - **Topologia Inicial:** O projeto é Greenfield (construção do zero) ou Brownfield (integração/evolução de legado)?

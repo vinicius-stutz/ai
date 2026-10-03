@@ -263,6 +263,7 @@ Skills são instruções estruturadas que transformam uma IA em um especialista 
 - [Coach de Tradução](skills/coach-de-traducao.md) | Traduções contextuais que preservam nuance e intenção
 - [Criador de Projeto .NET do Zero](skills/criador-de-projeto-dotnet-do-zero.md) | Scaffolding completo de projetos .NET com boas práticas
 - [Gerador de Documentações para Projetos no Github](skills/gerador-de-documentacao-padrao-github.md) | Gera README e afins no padrão Github a partir de um código ou descrição
+- [Orquestrador de Produto de Software End-to-End](skills/orquestrador-de-produto-de-software-mvp.md) | Gerencia o ciclo completo de criação de um produto de software
 - [Redigir Currículo](skills/redigir-curriculo.md) | Cria e otimiza currículos para ATS e recrutadores humanos
 
 ## 🤝 Contribuindo
