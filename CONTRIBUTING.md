@@ -62,7 +62,9 @@ Leia este guia antes de abrir um Pull Request.
 ```
 
 > [!TIP]
+> 
 > **Não sabe em qual pasta colocar?**
+> 
 > Abra uma [Issue](../../issues) com o título **[Categoria]** e descreva o conteúdo — vamos ajudar.
 
 ## Padrões obrigatórios
