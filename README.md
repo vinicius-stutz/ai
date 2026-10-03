@@ -1,40 +1,35 @@
 # 🤖 Awesome AI Prompts & Skills
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                              ║
-║    █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗                                             ║
-║   ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝                                             ║
-║   ███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗                                               ║
-║   ██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝                                               ║
-║   ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗                                             ║
-║   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝                                             ║
-║                                                                                                              ║
-║             ┌──────────────────────────────────────────────────────────────────────────────┐                 ║
-║             │                                                                              │                 ║
-║             │   >_ AWESOME AI PROMPTS & SKILLS                                             │                 ║
-║             │                                                                              │                 ║
-║             │   [ PROMPT ] ──► [ ◉ NEURAL CORE ◉ ] ──► [ SKILL ] ──► [ OUTPUT ]            │                 ║
-║             │                    ╱      │      ╲                                           │                 ║
-║             │                  0101    1010    1100                                        │                 ║
-║             │                    ╲      │      ╱                                           │                 ║
-║             │                     ╲─────┴─────╱                                            │                 ║
-║             │                       AI ENGINE                                              │                 ║
-║             │                                                                              │                 ║
-║             └──────────────────────────────────────────────────────────────────────────────┘                 ║
-║                                                                                                              ║
-║                    ░▒▓█  PROMPTS  •  SKILLS  •  WORKFLOWS  •  AUTOMATION  █▓▒░                               ║
-║                                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                ║
+║           █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗   █████╗ ██╗           ║
+║          ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝  ██╔══██╗██║           ║
+║          ███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗    ███████║██║           ║
+║          ██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝    ██╔══██║██║           ║
+║          ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗  ██║  ██║██║           ║
+║          ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝  ╚═╝  ╚═╝╚═╝           ║
+║                                                                                                ║
+║        ┌──────────────────────────────────────────────────────────────────────────────┐        ║
+║        │                                                                              │        ║
+║        │   >_ AWESOME AI PROMPTS & SKILLS                                             │        ║
+║        │                                                                              │        ║
+║        │   [ PROMPT ] ──► [ ◉ NEURAL CORE ◉ ] ──► [ SKILL ] ──► [ OUTPUT ]            │        ║
+║        │                    ╱      │      ╲                                           │        ║
+║        │                  0101    1010    1100                                        │        ║
+║        │                    ╲      │      ╱                                           │        ║
+║        │                     ╲─────┴─────╱                                            │        ║
+║        │                       AI ENGINE                                              │        ║
+║        │                                                                              │        ║
+║        └──────────────────────────────────────────────────────────────────────────────┘        ║
+║                                                                                                ║
+║                 ░▒▓█  PROMPTS  •  SKILLS  •  WORKFLOWS  •  AUTOMATION  █▓▒░                    ║
+║                                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![PT-BR](https://img.shields.io/badge/lang-PT--BR-green)](README.md)
 
-**Uma coleção cuidadosamente curada de prompts, skills, configurações e guias para potencializar seu uso de IAs generativas.**
-
-> [!NOTE]
->
-> Este repositório não faz parte da lista [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re).
-> Bem que poderia fazer, mas, além de estar em PT-BR, (ainda) não faz 🙂
+**Uma coleção cuidadosamente curada de prompts, skills, configurações e guias para potencializar seu uso de IAs generativas.** Não sabe do que se trata? [Saiba mais aqui](articles/ecossistema-de-ia.md).
 
 *Exportado e higienizado a partir de notas reais do [Obsidian](https://obsidian.md/) - conteúdo testado no mundo real.*
 
@@ -271,7 +266,7 @@ Skills são instruções estruturadas que transformam uma IA em um especialista 
 - [Redigir Currículo](skills/redigir-curriculo.md) | Cria e otimiza currículos para ATS e recrutadores humanos
 
 ## 🤝 Contribuindo
-Contribuições são muito bem-vindas - prompts, skills, artigos, dicas, correções e melhorias.
+Este repositório não faz parte da lista [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re), mas qualquer boa contribuição é bem-vinda: prompts, skills, artigos, dicas, correções e melhorias.
 
 Leia o **[Guia de Contribuição](CONTRIBUTING.md)** completo antes de abrir um PR. Ele cobre:
 - Tipos de contribuição aceitos
