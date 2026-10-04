@@ -28,6 +28,7 @@ A segunda linha deve conter apenas as PROJECT SHIELDS (em ordem, todos na mesma 
   - **Sucesso:** dimgray + green
   - **Falha:** dimgray + red
 - `license` (licença do projeto)
+- `sponsor` (doação ou patrocínio, se não souber o serviço ou o nome de usuário do serviço, pergunte)
 - botão *follow* do Github para o owner do repositório, algo como o exemplo `<a href="https://github.com/username" target="_blank"><img src="https://img.shields.io/github/followers/username?label=follow&style=social" height="20" title="Siga-me!" alt="Siga-me!" /></a>`
 
 A última linha desta seção deve conter links como:
@@ -40,11 +41,11 @@ Exemplo de como devem ficar as primeiras linhas do documento:
 ```html
 <h1 align="center">Título do projeto aqui</h1>
 <p align="center">
-  PROJECT SHIELDS aqui
+  PROJECT SHIELDS aqui (todos na mesma linha)
 </p>
 
 <p align="center">
-  Links aqui
+  {{LINK_1}} · {{LINK_2}} · {{LINK_3}} · {{LINK_4}}
 </p>
 ```
 
@@ -143,22 +144,22 @@ Crie uma seção chamada "Contribuindo". Deve ter um link para o arquivo CONTRIB
 ### 9. LICENSE
 Crie uma seção "Licença" com o tipo de licença do projeto e um link para o arquivo LICENSE.
 
-### 10. CONTACT
-Crie uma seção "Contato" contendo:
-- O nome da equipe (ou da pessoa) responsável (se não souber, pergunte ao usuário no prompt)
-- Link para o perfil do colaborador no Github (se não souber, pergunte ao usuário no prompt)
-- Links relevantes de documentação e gestão do projeto
-
 ### Últimas linhas do arquivo README.md
-As últimas linhas devem conter:
-- Uma linha separadora
-- Um link para o arquivo CODE_OF_CONDUCT.md
-- Um link para o arquivo SECURITY.md
+As últimas linhas devem conter um separador e alguns links, algo como:
+```markdown
+---
+{{NOME_DA_EQUIPE_OU_DA_PESSOA_RESPONSAVEL}} · {{LINK_PERFIL_GITHUB}} · {{SPONSOR_LINK}}
+```
+
+Se não souber nenhuma das variáveis, pergunte ao usuário no prompt.
 
 ---
 
 ## O arquivo CODE_OF_CONDUCT.md
 ```markdown
+---
+{{NOME_DA_EQUIPE_OU_DA_PESSOA_RESPONSAVEL}}
+```
 # Código de conduta para colaboradores
 ## Objetivo
 Este repositório é mantido por {X} colaboradore(s). Espera-se que todas as contribuições priorizem qualidade, segurança, respeito e colaboração.
@@ -212,7 +213,7 @@ Se fizer sentido para o tipo de projeto, inclua uma badge de cobertura de testes
 ---
 
 ## O arquivo LICENSE
-Substitua pelo conteúdo de licença adequado ao projeto (MIT, Apache 2.0, GPL, Proprietária etc).
+Substitua pelo conteúdo de licença mais adequado ao projeto analisado (MIT, Apache 2.0, GPL, Proprietária etc).
 
 ---
 
@@ -222,9 +223,9 @@ Substitua pelo conteúdo de licença adequado ao projeto (MIT, Apache 2.0, GPL, 
 ## Relatando Questões de Segurança
 Por favor, não relate vulnerabilidades de segurança por meios públicos.
 
-Em vez disso, reporte-as ao canal de segurança dos responsáveis pelo projeto.
+Em vez disso, reporte-as ao canal de segurança do responsável pelo projeto por meio do seguinte caminho: {{INFORME_AQUI_O_ENDERECO}}.
 
-Por favor, inclua as informações abaixo (tanto quanto puder fornecer) para nos ajudar a entender melhor a natureza e o escopo do possível problema:
+Por favor, inclua as informações abaixo (tanto quanto puder fornecer) para ajudar a entender melhor a natureza e o escopo do possível problema:
 - Tipo de problema (buffer overflow, injeção SQL, XSS, etc.)
 - Caminhos completos dos arquivos fonte relacionados ao problema
 - A localização do código-fonte afetado (tag/branch/commit ou URL direta)
