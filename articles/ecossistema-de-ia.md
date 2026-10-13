@@ -1,7 +1,7 @@
 ---
 title: "O Ecossistema de Inteligência Artificial: Componentes e Estruturas"
 category: "articles"
-target_model: "Qualquer LLM"
+target_model: "Any"
 ---
 # O Ecossistema de Inteligência Artificial: Componentes e Estruturas
 Abaixo está a definição técnica e estrutural dos componentes essenciais da Inteligência Artificial moderna, organizados de forma hierárquica, dos conceitos fundamentais aos sistemas complexos de integração.

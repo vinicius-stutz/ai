@@ -1,3 +1,10 @@
+---
+title: Melhoria em fotos a partir de um JSON
+category: prompts
+target_model:
+  - Gemini
+  - ChatGPT
+---
 # Melhoria em fotos a partir de um JSON
 1. Obtenha o JSON da imagem desejada com qualquer IA. Copie o resultado.
 2. Com o Gemini, envie a sua foto, cole o JSON obtido na outra IA e envie.

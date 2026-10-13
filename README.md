@@ -107,9 +107,11 @@ Guias completos para quem quer ir além do básico:
 - [10 Passos para Construir Agentes do Zero](articles/10-passos-para-construir-agentes-do-zero.md) | Guia prático de construção de agentes de IA
 - [Claude Code](articles/claude-code.md) | Guia prático sobre o uso do Claude Code
 - [O Ecossistema de Inteligência Artificial](articles/ecossistema-de-ia.md) | Componentes e Estruturas de IA
+- [Uso seguro das IAs](articles/uso-seguro-das-ias.md) | Guia prático sobre o uso seguro das IAs
 
 ## 💬 Comandos Rápidos
 - [Comandos Rápidos do ChatGPT](commands/comandos-rapidos-do-chatgpt.md) | Atalhos e comandos para acelerar o uso do ChatGPT
+- [Comandos Rápidos da Gemini](commands/comandos-rapidos-da-gemini.md) | Atalhos e comandos para acelerar o uso da Gemini
 
 ## ⚙️ Configurações
 Configurações de sistema para personalizar o comportamento das IAs:
@@ -200,9 +202,13 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [3 Prompts para Criar Fotos de Perfil para Doutores](prompts/image/3-prompts-para-criar-fotos-de-perfil-para-doutores.md) | Fotos profissionais de perfil para área médica
 - [3 Prompts para Criar Fotos Profissionais Realistas](prompts/image/3-prompts-para-criar-fotos-profissionais-realistas.md) | Fotos de alta qualidade com aparência fotográfica real
 - [9 Prompts para Edição e Geração de Imagens com Nano Banana](prompts/image/9-prompts-para-edicao-e-geracao-de-imagens-com-nano-banana.md) | Coleção de prompts visuais avançados
+- [Correção em fotos](prompts/image/correcao-em-fotos.md) | Ajustes e correções em imagens
 - [Foto com Desenho a Caneta](prompts/image/foto-com-desenho-a-caneta.md) | Estilo artístico de esboço a caneta
 - [Foto com Sombras Marcantes](prompts/image/foto-com-sombras-marcantes.md) | Fotografia com contraste e iluminação dramáticos
+- [Image Drone View](prompts/image/image-drone-view.md) | Visão aérea de imagens
 - [Melhoria em Fotos a partir de um JSON](prompts/image/melhoria-em-fotos-a-partir-de-um-json.md) | Melhora fotos com base em parâmetros estruturados
+- [Modificar fotos sem alterar a fisionomia](prompts/image/modificar-fotos-sem-alterar-fisionomia.md) | Altera fotos mantendo características faciais
+- [Pôster de moda](prompts/image/poster-de-moda.md) | Gera pôsteres de moda em alta qualidade
 
 ### 📚 Learn - Aprendizado
 - [7 Prompts para Habilidades de Aprendizagem](prompts/learn/7-prompts-para-habilidades-de-aprendizagem.md) | Kit completo de técnicas de aprendizado
@@ -241,6 +247,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 ### ✍️ Text - Escrita e Comunicação
 - [4 Prompts para Escrita e Comunicação](prompts/text/4-prompts-para-escrita-e-comunicacao.md) | Técnicas essenciais de comunicação escrita
 - [6 Prompts para Eliminar a Estrutura Artificial dos Textos Gerados](prompts/text/6-prompts-para-eliminar-a-estrutura-artificial-dos-textos-gerados.md) | Remove padrões óbvios de texto gerado por IA
+- [7 Prompts para melhorar o texto sem descaracterizá-lo e sem inventar](prompts/text/7-prompts-chatGPT-melhorar-texto-sem-criar-palavras.md)
 - [Aplique Técnicas de Escrita Humana](prompts/text/aplique-tecnicas-de-escrita-humana.md) | Humanize textos gerados por IA
 - [Avaliação Crítica de Textos](prompts/text/avaliacao-critica-de-textos.md) | Análise profunda de qualidade textual
 - [Capture seu Estilo de Escrita](prompts/text/capture-seu-estilo-de-escrita.md) | Replica seu estilo pessoal de escrita fielmente
@@ -265,6 +272,10 @@ Skills são instruções estruturadas que transformam uma IA em um especialista 
 - [Gerador de Documentações para Projetos no Github](skills/gerador-de-documentacao-padrao-github.md) | Gera README e afins no padrão Github a partir de um código ou descrição
 - [Orquestrador de Produto de Software End-to-End](skills/orquestrador-de-produto-de-software-mvp.md) | Gerencia o ciclo completo de criação de um produto de software
 - [Redigir Currículo](skills/redigir-curriculo.md) | Cria e otimiza currículos para ATS e recrutadores humanos
+
+## 😸 Outros repositórios de IA no Github
+- [Codex Skills Library](https://github.com/proflead/codex-skills-library), by Vladislav Guzey
+- [Spec-Driven Development Scaffold](https://github.com/igoruehara/spec-driven), by Igor Uehara
 
 ## 🤝 Contribuindo
 Este repositório não faz parte da lista [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re), mas qualquer boa contribuição é bem-vinda: prompts, skills, artigos, dicas, correções e melhorias.
