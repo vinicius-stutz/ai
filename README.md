@@ -158,6 +158,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [7 Prompts para Ganhar Dinheiro no YouTube](prompts/entrepreneurship/7-prompts-para-ganhar-dinheiro-no-youtube.md) | Estratégias de monetização e crescimento no YouTube
 - [Análise de Chamada de Vendas](prompts/entrepreneurship/analise-de-chamada-de-vendas.md) | Analisa calls de vendas e extrai insights acionáveis
 - [Comparação de Cotação de Fornecedores](prompts/entrepreneurship/comparacao-de-cotacao-de-fornecedores.md) | Avalia propostas de fornecedores de forma objetiva
+- [Construindo um canal no Youtube com o Claude](prompts/entrepreneurship/claude-e-youtube.md) | Prompts para construir um canal no Youtube com Claude
 - [Crie Conteúdo em Lote](prompts/entrepreneurship/crie-conteudo-em-lote.md) | Produção em massa de conteúdo com consistência de voz
 - [Crie CTA que Gera Ação](prompts/entrepreneurship/crie-cta-que-gera-acao.md) | Calls-to-action de alta conversão
 - [Crie Reels com Alta Retenção](prompts/entrepreneurship/crie-reels-com-alta-retencao.md) | Estrutura de roteiro para vídeos curtos que retêm audiência
