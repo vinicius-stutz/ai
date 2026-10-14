@@ -6,27 +6,36 @@ target_model: "ChatGPT (GPT-4 ou superior)"
 # Comandos Rápidos do ChatGPT
 Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não.
 
-## Lista de 66 Comandos Rápidos
+## Lista de 98 Comandos Rápidos
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/3d`                       | Aparência 3D                                                                                               |
 | `/3dadcreative`             | Cria uma arte de propaganda em 3D                                                                          |
 | `/3danatomy`                | Cria uma arte de anatomia em 3D                                                                            |
 | `/3dbillboard`              | Produto em um outdoor 3D gigante                                                                           |
 | `/3dmagazinecover`          | Produto na capa de uma revista 3D                                                                          |
 | `/3dsoftcutaway`            | Cria um corte transversal de produtos de maneira suave                                                     |
+| `/4k`                       | Upscale a imagem para 4K                                                                                   |
 | `/actionfigure`             | Transforma o personagem da foto em um boneco de ação em blister                                            |
+| `/advertising`              | Foto publicitária                                                                                          |
+| `/beforeafter`              | Antes e depois                                                                                             |
+| `/blackwhite`               | Preto e branco                                                                                             |
+| `/blur`                     | Aplica blur no fundo da imagem                                                                             |
 | `/bobblehead`               | Transforma o personagem da foto em um boneco bobblehead (cabeça que se move)                               |
+| `/cleanup`                  | Limpa imperfeições                                                                                         |
 | `/crochetdoll`              | Transforma o personagem da foto em um boneco de crochê                                                     |
-| `/cutaway`                  | Cria uma arte de corte transversal de produtos                                                             |
 | `/crystal`                  | Produto cercado por cristais e reflexos                                                                    |
+| `/cutaway`                  | Cria uma arte de corte transversal de produtos                                                             |
 | `/cyberpunk`                | Campanha com estética cyberpunk                                                                            |
+| `/depth`                    | Aumenta a profundidade                                                                                     |
 | `/desert`                   | Produto em um deserto cinematográfico                                                                      |
 | `/dioramabox`               | Cria uma arte de diorama em caixa                                                                          |
 | `eli10`                     | Obtém respostas para uma criança de 10 anos                                                                |
 | `/energy`                   | Raios e energia visual ao redor do produto                                                                 |
-| `/explosion`                | Produto no centro de uma explosão visual                                                                   |
 | `/explodedview`             | Mostra o produto como se estivesse desmontado em suas peças                                                |
+| `/explosion`                | Produto no centro de uma explosão visual                                                                   |
+| `/fashion`                  | Editorial de moda                                                                                          |
 | `/fire`                     | Produto cercado por fogo e faíscas                                                                         |
 | `/floating`                 | Produto flutuando com elementos ao redor                                                                   |
 | `/footweartechpack`         | Cria uma ficha técnica de calçados com especificações técnicas, materiais e desenhos técnicos.             |
@@ -37,43 +46,66 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/generatehandwrittenimage` | Monta um diagrama explicativo escrito à mão<br>*exemplo:* `/generatehandwrittenimage sistema respiratório` |
 | `/giant`                    | Produto gigante integrado à cidade                                                                         |
 | `/gold`                     | Campanha premium com ouro e reflexos metálicos                                                             |
+| `/hairsdiferentstyles`      | Variação de estilos de cabelo                                                                              |
+| `/hdr`                      | Aumenta os detalhes                                                                                        |
 | `/hdreal`                   | Melhora a qualidade de uma foto enviada no prompt                                                          |
 | `/hologram`                 | Hologramas e interfaces digitais                                                                           |
 | `/human`                    | Humanizar uma resposta                                                                                     |
 | `/ice`                      | Cenário congelado com gelo e cristais                                                                      |
 | `/ingredientbreakdown`      | Mostra os ingredientes do produto em uma ilustração                                                        |
 | `/ingredientexplosion`      | Mostra os ingredientes explodindo ao redor do produto                                                      |
+| `/instagram`                | Adapta para Instagram                                                                                      |
 | `/isometricroom`            | Cria um ambiente em 3D com vista isométrica                                                                |
 | `jargonize`                 | Obtém respostas técnicas                                                                                   |
 | `/jungle`                   | Produto em uma selva tropical                                                                              |
-| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                       |
 | `/keychain`                 | Transforma o personagem da foto em um chaveiro                                                             |
+| `/light`                    | Melhora a iluminação                                                                                       |
+| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                       |
 | `/luxury`                   | Estética sofisticada e luxuosa                                                                             |
 | `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
 | `/macro`                    | Close extremo com riqueza de detalhes                                                                      |
+| `/magazine`                 | Capa de revista                                                                                            |
 | `/metaad`                   | Criativo pronto para Meta Ads                                                                              |
+| `/miniature`                | Efeito miniatura                                                                                           |
 | `/miniatureroom`            | Gera a miniatura de um ambiente                                                                            |
 | `/minifig`                  | Transforma o personagem da foto em uma mini figura de LEGO                                                 |
 | `/museum`                   | Produto exposto como obra de arte                                                                          |
 | `/nature`                   | Produto integrado à natureza                                                                               |
 | `/neon`                     | Cena futurista com luzes neon                                                                              |
+| `/newbg`                    | Troca o fundo                                                                                              |
 | `/objectremove`             | Remove um objeto da imagem                                                                                 |
 | `/ocean`                    | Produto em uma cena oceânica                                                                               |
 | `/plushie`                  | Transforma o personagem da foto em um boneco de pelúcia                                                    |
 | `/portal`                   | Produto surgindo de um portal de energia                                                                   |
+| `/portrait`                 | Aprimora retratos                                                                                          |
+| `/poster`                   | Cria pôster                                                                                                |
 | `/productshot`              | Foto profissional de estúdio                                                                               |
-| `/showcase`                 | Foto publicitária premium                                                                                  |
+| `/proshot`                  | Foto profissional                                                                                          |
+| `/reelscover`               | Capa para Reels                                                                                            |
+| `/relight`                  | Altera a iluminação                                                                                        |
+| `/remove`                   | Remove objetos                                                                                             |
+| `/removepeoplebgr`          | Remove pessoas da imagem                                                                                   |
+| `/retro`                    | Estilo retrô                                                                                               |
+| `/sharp`                    | Aumenta a nitidez                                                                                          |
 | `/shotsetup`                | Mostra o diagrama de luzes da foto                                                                         |
+| `/showcase`                 | Foto publicitária premium                                                                                  |
 | `/smoke`                    | Produto cercado por fumaça dramática                                                                       |
 | `/space`                    | Produto em uma cena no espaço                                                                              |
 | `/splash`                   | Produto cercado por água ou líquido                                                                        |
 | `/sticky-notes`             | Monta notas adesivas explicativas em tópicos<br>*exemplo:* `/sticky-notes 3 leis de Newton`                |
 | `/storm`                    | Produto em uma tempestade épica                                                                            |
+| `/studio`                   | Cria cenário de estúdio                                                                                    |
+| `/studiopro`                | Fotos de portfólio profissional com iluminação de estúdio                                                  |
+| `/thumbnail`                | Thumbnail de impacto                                                                                       |
 | `/timelineboard`            | Cria um quadro cronológico com imagens e textos                                                            |
 | `TL;DR`                     | Resume documentos ou textos longos                                                                         |
 | `/together`                 | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
+| `/toy`                      | Estilo action figure                                                                                       |
 | `/toybox`                   | Mostra o produto dentro de uma caixa de brinquedo                                                          |
 | `/underwater`               | Cena subaquática                                                                                           |
+| `/upscale`                  | Melhora a resolução                                                                                        |
+| `/vintage`                  | Estilo vintage                                                                                             |
+| `/viral`                    | Composição mais chamativa                                                                                  |
 | `/visualizelearning`        | Monta uma ilustração explicativa ou infográfico<br>*exemplo:* `/visualizelearning fotossíntese`            |
 | `/xray`                     | Mostra o interior do objeto (raio-x)                                                                       |
 
@@ -230,30 +262,34 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 
 ## Detalhes
 
-| Comando                     | O que faz                                     |
-| --------------------------- | --------------------------------------------- |
-| `/annotated`                | Com setas e notas acima                       |
-| `/blueprint`                | Plano azul de arquiteto                       |
-| `/construction`             | Como está construído, capa a capa             |
-| `/crosssection`             | Corte limpo de livro de texto                 |
-| `/dieline`                  | Faca da embalagem desdobrada                  |
-| `/dimensioned`              | Com cotas e medidas                           |
-| `/floorplan`                | Planta vista de cima                          |
-| `/flowchart`                | Diagrama de fluxo com caixas                  |
-| `/ghostedview`              | Carcaça transparente, mecanismo visível       |
-| `/infographic`              | Ordena a informação como infográfico          |
-| `/isometric`                | Maquete a quarenta e cinco graus              |
-| `/layercut`                 | Corte que mostra as camadas                   |
-| `/layerview`                | As capas empilhadas e visíveis                |
-| `/materialcallout`          | Sinaliza cada material na foto                |
-| `/microscopeview`           | O teste visto ao microscópio                  |
-| `/orthographic`             | Sem perspectiva, tudo à escala                |
-| `/partsdiagram`             | As peças numeradas em fila                    |
-| `/patentdrawing`            | Desenho de patente antiga                     |
-| `/schematic`                | Esquema técnico com referências               |
-| `/sizechart`                | Tabela de tamanhos como gráfico               |
-| `/skeletalview`             | Só a estrutura, sem pele                      |
-| `/spectable`                | Tabela de especificações ao lado              |
-| `/teardown`                 | Todas as peças sobre a mesa                   |
-| `/texturemacro`             | A textura a milímetros                        |
-| `/wireframe`                | Malha de linhas sem preenchimento             |
+| Comando                     | O que faz                               |
+| --------------------------- | --------------------------------------- |
+| `/anatomy`                  | Estrutura interna                       |
+| `/annotated`                | Com setas e notas acima                 |
+| `/blueprint`                | Plano azul de arquiteto                 |
+| `/construction`             | Como está construído, capa a capa       |
+| `/crosssection`             | Corte limpo de livro de texto           |
+| `/diagram`                  | Diagrama visual                         |
+| `/dieline`                  | Faca da embalagem desdobrada            |
+| `/dimensioned`              | Com cotas e medidas                     |
+| `/exploded`                 | Objeto desmontado                       |
+| `/floorplan`                | Planta vista de cima                    |
+| `/flowchart`                | Diagrama de fluxo com caixas            |
+| `/ghostedview`              | Carcaça transparente, mecanismo visível |
+| `/infographic`              | Ordena a informação como infográfico    |
+| `/isometric`                | Maquete a quarenta e cinco graus        |
+| `/layercut`                 | Corte que mostra as camadas             |
+| `/layerview`                | As capas empilhadas e visíveis          |
+| `/materialcallout`          | Sinaliza cada material na foto          |
+| `/microscopeview`           | O teste visto ao microscópio            |
+| `/microscopic`              | Visão microscópica                      |
+| `/orthographic`             | Sem perspectiva, tudo à escala          |
+| `/partsdiagram`             | As peças numeradas em fila              |
+| `/patentdrawing`            | Desenho de patente antiga               |
+| `/schematic`                | Esquema técnico com referências         |
+| `/sizechart`                | Tabela de tamanhos como gráfico         |
+| `/skeletalview`             | Só a estrutura, sem pele                |
+| `/spectable`                | Tabela de especificações ao lado        |
+| `/teardown`                 | Todas as peças sobre a mesa             |
+| `/texturemacro`             | A textura a milímetros                  |
+| `/wireframe`                | Malha de linhas sem preenchimento       |
