@@ -6,7 +6,7 @@ target_model: "ChatGPT (GPT-4 ou superior)"
 # Comandos Rápidos do ChatGPT
 Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não.
 
-## Lista de 98 Comandos Rápidos
+## Lista de 101 Comandos Rápidos
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -65,6 +65,7 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
 | `/macro`                    | Close extremo com riqueza de detalhes                                                                      |
 | `/magazine`                 | Capa de revista                                                                                            |
+| `/mergepeople`              | Une duas ou mais pessoas em uma mesma imagem                                                               |
 | `/metaad`                   | Criativo pronto para Meta Ads                                                                              |
 | `/miniature`                | Efeito miniatura                                                                                           |
 | `/miniatureroom`            | Gera a miniatura de um ambiente                                                                            |
@@ -102,6 +103,8 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/together`                 | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
 | `/toy`                      | Estilo action figure                                                                                       |
 | `/toybox`                   | Mostra o produto dentro de uma caixa de brinquedo                                                          |
+| `/transferbg`               | Transfere o fundo de uma imagem para outra                                                                 |
+| `/transferoutfit`           | Transfere a roupa de uma foto para outra                                                                   |
 | `/underwater`               | Cena subaquática                                                                                           |
 | `/upscale`                  | Melhora a resolução                                                                                        |
 | `/vintage`                  | Estilo vintage                                                                                             |
@@ -185,6 +188,7 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/gobopattern`              | Recorta um padrão de luz sobre o produto       |
 | `/goldenhour`               | Luz dourada do fim de tarde                    |
 | `/highkey`                  | Cenário claro, quase sem sombras               |
+| `/imgrelight`               | Altera e ajusta a iluminação da imagem         |
 | `/lightingdiagram`          | Esquema de iluminação de cada luz              |
 | `/longexposure`             | Estelas de luz pelo tempo                      |
 | `/lowkey`                   | Cenário escuro, com um ponto de luz            |
@@ -243,6 +247,7 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/billboard`                | Painel publicitário em contexto   |
 | `/bookcover`                | Capa de livro                     |
 | `/cameramove`               | Descreve o movimento de câmera    |
+| `/droneview`                | Vista aérea como feita por drone  |
 | `/duotoneportrait`          | Retrato em duas tintas planas     |
 | `/dutchangle`               | Horizonte inclinado, tensão       |
 | `/environmentalportrait`    | A pessoa em seu local de trabalho |

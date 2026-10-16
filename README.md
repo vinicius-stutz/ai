@@ -9,19 +9,6 @@
 ║       ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗  ██║  ██║██║        ║
 ║       ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝  ╚═╝  ╚═╝╚═╝        ║
 ║                                                                                          ║
-║     ┌──────────────────────────────────────────────────────────────────────────────┐     ║
-║     │                                                                              │     ║
-║     │   >_ AWESOME AI PROMPTS & SKILLS                                             │     ║
-║     │                                                                              │     ║
-║     │   [ PROMPT ] ──► [ ◉ NEURAL CORE ◉ ] ──► [ SKILL ] ──► [ OUTPUT ]            │     ║
-║     │                    ╱      │      ╲                                           │     ║
-║     │                  0101    1010    1100                                        │     ║
-║     │                    ╲      │      ╱                                           │     ║
-║     │                     ╲─────┴─────╱                                            │     ║
-║     │                       AI ENGINE                                              │     ║
-║     │                                                                              │     ║
-║     └──────────────────────────────────────────────────────────────────────────────┘     ║
-║                                                                                          ║
 ║              ░▒▓█  PROMPTS  •  SKILLS  •  WORKFLOWS  •  AUTOMATION  █▓▒░                 ║
 ║                                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
@@ -33,34 +20,38 @@
 
 *Exportado e higienizado a partir de notas reais do [Obsidian](https://obsidian.md/) - conteúdo testado no mundo real.*
 
-[📚 Artigos](#-artigos) · [💬 Comandos Rápidos](#-comandos-rápidos) · [⚙️ Configurações](#%EF%B8%8F-configurações) · [💡 Dicas](#-dicas) · [💬 Prompts](#-prompts) · [🧠 Skills](#-skills) · [🤝 Contribuir](#-contribuindo)
+[👨‍💻 Agentes](#-agentes) · [📚 Artigos](#-artigos) · [💬 Comandos Rápidos](#-comandos-rápidos) · [⚙️ Configurações](#%EF%B8%8F-configurações) · [💡 Dicas](#-dicas) · [💬 Prompts](#-prompts) · [🧠 Skills](#-skills) · [🤝 Contribuir](#-contribuindo)
 
 ## 🤔 Por que este repositório?
 > [!NOTE]
 > **Este repo é diferente!**
 > A maioria dos repositórios de prompts é uma lista genérica e sem contexto.
 
-Aqui você encontra **prompts com propósito**, organizados por objetivo real - não por ferramenta. Cada arquivo foi usado, refinado e validado na prática. Além de prompts, há **skills prontas** para agentes como Claude Code / Antigravity / Github Copilot, **configurações de comportamento** para personalizar IAs e **artigos** explicando como tudo funciona por baixo dos panos.
+Aqui você encontra **prompts com propósito**, organizados por objetivo real - não por ferramenta. Cada arquivo foi usado, refinado e validado na prática. Além de prompts, há **agentes e workflows autônomos**, **skills prontas** para agentes como Claude Code / Antigravity / Github Copilot, **configurações de comportamento** para personalizar IAs e **artigos** explicando como tudo funciona por baixo dos panos.
 
 ## 🗂️ Estrutura do Repositório
 ```
 .
-├── 📁 articles/             # Guias aprofundados sobre IA e agentes
-├── 📁 commands/             # Comandos rápidos para LLMs no dia a dia
-├── 📁 config/               # Configurações de comportamento para IAs
+├── 📁 agents/                          # Times de agentes autônomos e workflows de orquestração
+│   └── 🤖 autonomous-development-team/ # Time de engenharia de software ponta a ponta
+│       ├── 🧠 skills/                  # As habilidades do agente
+│       └── 🔄 workflows/               # Fluxos automatizados e máquinas de estado (ex: /startcycle)
+├── 📁 articles/                        # Guias aprofundados sobre IA e agentes
+├── 📁 commands/                        # Comandos rápidos para LLMs no dia a dia
+├── 📁 config/                          # Configurações de comportamento para IAs
 ├── 📁 prompts/
-│   ├── 🔍 analysis/         # Análise, pesquisa e tomada de decisão
-│   ├── ⚡ automation/        # Automação de tarefas e rotinas
-│   ├── 💼 career/           # Carreira e recolocação profissional
-│   ├── 🚀 entrepreneurship/ # Empreendedorismo, marketing e vendas
-│   ├── 💰 finance/          # Finanças pessoais e fluxo de caixa
-│   ├── 🎨 image/            # Geração e edição de imagens
-│   ├── 📚 learn/            # Aprendizado acelerado e estudos
-│   ├── 🏢 management/       # Gestão de pessoas, tempo e reuniões
-│   ├── 🧘 personal/         # Vida pessoal e produtividade
-│   └── ✍️ text/             # Escrita, comunicação e copywriting
-├── 📁 skills/               # Skills para Claude Code e agentes de IA
-└── 📁 tips/                 # Dicas práticas de ferramentas e IA
+│   ├── 🔍 analysis/                    # Análise, pesquisa e tomada de decisão
+│   ├── ⚡ automation/                   # Automação de tarefas e rotinas
+│   ├── 💼 career/                      # Carreira e recolocação profissional
+│   ├── 🚀 entrepreneurship/            # Empreendedorismo, marketing e vendas
+│   ├── 💰 finance/                     # Finanças pessoais e fluxo de caixa
+│   ├── 🎨 image/                       # Geração e edição de imagens
+│   ├── 📚 learn/                       # Aprendizado acelerado e estudos
+│   ├── 🏢 management/                  # Gestão de pessoas, tempo e reuniões
+│   ├── 🧘 personal/                    # Vida pessoal e produtividade
+│   └── ✍️ text/                        # Escrita, comunicação e copywriting
+├── 📁 skills/                          # Skills para Claude Code e agentes de IA
+└── 📁 tips/                            # Dicas práticas de ferramentas e IA
 ```
 
 ## 📖 Como Usar
@@ -102,6 +93,28 @@ Mapa rápido das principais IAs e suas especialidades:
 > **Saiba mais**
 > Veja mais em uma [lista curada de repositórios comunitários](https://vinicius-stutz.raindrop.page/repositorios-comunitarios-74837396) sobre IA.
 
+## 👨‍💻 Agentes
+Sistemas multiagentes estruturados com papéis bem definidos, governança (*Quality Gates*), segurança por padrão (*Security by Design*) e workflows determinísticos.
+
+### 🛠️ [Time de Desenvolvimento Autônomo](agents/autonomous-development-team/agents.md)
+Um pipeline de engenharia de software ponta a ponta que transforma uma ideia em uma aplicação funcional, auditada e implantada por meio de 4 personas especializadas (`@pm`, `@engineer`, `@qa` e `@devops`):
+
+- **Diretrizes e Governança**: [Diretrizes do Time (`agents.md`)](agents/autonomous-development-team/agents.md) | Regras globais, segregação de funções, estrutura de artefatos e *Quality Gates* entre as fases
+- **Workflow Orquestrador**: [`/startcycle`](agents/workflows/startcycle.md) | Máquina de estados determinística que coordena a transição entre os agentes, aplica *Hard Stop* para aprovação humana da arquitetura e conta com *Circuit Breaker* (`MAX_RETRIES = 3`) contra loops infinitos
+
+**Skills do Time:**
+- [Especificação Técnica e Arquitetura (Write Specs)](agents/autonomous-development-team/skills/write-specs.md) | (`@pm`) Entrevista o usuário para eliminar ambiguidades e consolida a arquitetura e requisitos em `artifacts/specs.md`
+- [Engenharia e Geração de Código (Generate Code)](agents/autonomous-development-team/skills/code.md) | (`@engineer`) Implementa o código-fonte completo de front-end e back-end, manifestos e testes automatizados em `src/`
+- [Auditoria de Qualidade e Segurança de Código (Audit Code)](agents/autonomous-development-team/skills/audit.md) | (`@qa`) Revisor independente (*read-only* em `src/`) que valida conformidade, dependências, testes e segurança (OWASP), gerando o laudo `docs/quality.md`
+- [Provisionamento Seguro e Implantação Local (Deploy App)](agents/autonomous-development-team/skills/deploy.md) | (`@devops`) Provisiona ambiente isolado, instala dependências, roda *smoke tests* e inicia o servidor local com verificação ativa (*healthcheck*)
+- [Implantação Segura em Produção Multi-Cloud e PaaS (Deploy to Production)](agents/autonomous-development-team/skills/release.md) | (`@devops`) Publica a aplicação em produção (AWS, GCP, Azure, Vercel, Netlify, Cloudflare, Fly.io, etc.) sob controles de segurança e FinOps
+
+> [!TIP]
+> **Exemplo de uso com o workflow `/startcycle`**
+> ```text
+> /startcycle "Preciso de uma aplicação de chat em tempo real rápida para suporte ao cliente no meu site de e-commerce."
+> ```
+
 ## 📚 Artigos
 Guias completos para quem quer ir além do básico:
 - [10 Passos para Construir Agentes do Zero](articles/10-passos-para-construir-agentes-do-zero.md) | Guia prático de construção de agentes de IA
@@ -123,6 +136,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [4 Passos para Gerar Conteúdos Convincentes](tips/4-passos-para-gerar-conteudos-convincentes.md) | Framework de persuasão aplicado à IA
 - [8 Dicas de Engenharia de Prompt para Aprendizado](tips/8-dicas-de-prompts-de-engenharia-social-para-arrancar-o-potencial-maximo-da-ia-durante-o-aprendizado.md) | Extrai o máximo da IA nos estudos
 - [A Anatomia de uma Skill Perfeita](tips/a-anatomia-de-uma-skill-perfeita.md) | Como estruturar skills eficazes para agentes
+- [Arte seguindo Design System com o ChatGPT](tips/arte-seguindo-design-system-chatgtp.md) | Extrai o design system de uma imagem de referência para criar artes profissionais fora do padrão genérico
 - [Claude - Como Usar](tips/claude-como-usar.md) | Introdução e melhores práticas do Claude
 - [Claude Code - Como Usar](tips/claude-code-como-usar.md) | Guia completo do Claude Code em PT-BR
 - [Claude Code - Skills Oficiais](tips/claude-code-skills-oficiais.md) | Catálogo das skills oficiais do Claude Code
@@ -262,7 +276,9 @@ Configurações de sistema para personalizar o comportamento das IAs:
 Skills são instruções estruturadas que transformam uma IA em um especialista com comportamento consistente e repetível. Funcionam com **Claude Code**, **Github Copilot**, **Antigravity** e qualquer agente que suporte arquivos de contexto.
 
 > [!NOTE]
+> 
 > **Como usar**
+> 
 > Copie o arquivo `.md` para a pasta de skills do seu agente (ex.: `~/.claude/skills/`) ou referencie no contexto do sistema.
 
 - [Arte Publicitária para Vendas](skills/arte-publicitaria-para-vendas.md) | Cria conceitos visuais e cópias para anúncios de alta conversão
