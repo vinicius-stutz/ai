@@ -138,6 +138,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [A Anatomia de uma Skill Perfeita](tips/a-anatomia-de-uma-skill-perfeita.md) | Como estruturar skills eficazes para agentes
 - [Arte seguindo Design System com o ChatGPT](tips/arte-seguindo-design-system-chatgtp.md) | Extrai o design system de uma imagem de referência para criar artes profissionais fora do padrão genérico
 - [Claude - Como Usar](tips/claude-como-usar.md) | Introdução e melhores práticas do Claude
+- [Claude + Linkedin](tips/claude-linkedin.md) | Como o Claude otimizou meu perfil no LinkedIn em 10 minutos
 - [Claude Code - Como Usar](tips/claude-code-como-usar.md) | Guia completo do Claude Code em PT-BR
 - [Claude Code - Skills Oficiais](tips/claude-code-skills-oficiais.md) | Catálogo das skills oficiais do Claude Code
 - [Criação de Sites e Google Maps](tips/criacao-de-sites-e-google-maps.md) | Uso de IA para criação de presença digital e geolocalização
