@@ -143,6 +143,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [Claude Code - Skills Oficiais](tips/claude-code-skills-oficiais.md) | Catálogo das skills oficiais do Claude Code
 - [Criação de Sites e Google Maps](tips/criacao-de-sites-e-google-maps.md) | Uso de IA para criação de presença digital e geolocalização
 - [Crie Conteúdo para Instagram ou TikTok como um Preguiçoso](tips/crie-conteudo-para-o-instagram-ou-tiktok-como-um-preguicoso.md) | Produção de conteúdo para redes sociais com mínimo esforço
+- [Crie seu Avatar de IA para Produzir Conteúdo](tips/crie-seu-avatar-para-produzir-conteudo) | Como Criar Seu Avatar de IA para Produzir Conteúdo em 2 Minutos
 - [Deep Fake com Vídeos usando o Flow](tips/deep-fake-com-videos-usando-o-flow.md) | Técnicas de vídeo sintético com ferramentas acessíveis
 - [Dicas Avançadas de IA](tips/dicas-avancadas-de-ia.md) | Técnicas avançadas para usuários experientes
 - [Dicas para Melhorar Qualquer Prompt](tips/dicas-para-melhorar-qualquer-prompt.md) | Princípios universais de prompt engineering
