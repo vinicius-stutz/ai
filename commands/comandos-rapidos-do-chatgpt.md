@@ -6,7 +6,169 @@ target_model: "ChatGPT (GPT-4 ou superior)"
 # Comandos Rápidos do ChatGPT
 Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não.
 
-## Lista de 101 Comandos Rápidos
+## Lista de 161 Comandos Rápidos
+
+### Respostas, Análise e Raciocínio
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/booksummary`              | Resume qualquer livro em pontos-chave                                                                      |
+| `/brainstorm`               | Gera ideias criativas                                                                                      |
+| `/brief`                    | Respostas curtas e diretas                                                                                 |
+| `/ceo`                      | Análise estratégica de fundador                                                                            |
+| `/critic`                   | Encontra pontos fracos e melhorias                                                                         |
+| `/datainterpreter`          | Analisa dados e gera insights                                                                              |
+| `/decisionhelper`           | Ajuda a tomar melhores decisões                                                                            |
+| `/deepthink`                | Analisa em profundidade qualquer tema                                                                      |
+| `eli10`                     | Obtém respostas para uma criança de 10 anos                                                                |
+| `/eli5`                     | Explica como se eu tivesse 5 anos                                                                          |
+| `/expert`                   | Respostas de especialista e mais profundas                                                                 |
+| `/human`                    | Humanizar uma resposta                                                                                     |
+| `jargonize`                 | Obtém respostas técnicas                                                                                   |
+| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                       |
+| `/problemsolver`            | Resolve qualquer problema passo a passo                                                                    |
+| `/promptengineer`           | Melhora qualquer prompt                                                                                    |
+| `/promptimprover`           | Melhora qualquer prompt                                                                                    |
+| `/research`                 | Pesquisa profunda sobre qualquer assunto                                                                   |
+| `/strategy`                 | Planejamento e estratégias de longo prazo                                                                  |
+| `/teacher`                  | Explica de forma simples e didática                                                                        |
+| `TL;DR`                     | Resume documentos ou textos longos                                                                         |
+| `/unpopularopinion`         | Dá opiniões sinceras sobre temas polêmicos                                                                 |
+
+### Estudo e Aprendizado Visual
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `comic4`                    | Cria uma tirinha de 4 quadros explicando o tema<br>*exemplo:* `comic4 gravidade`                           |
+| `/flashcards`               | Gera cartões de estudo (flashcards) sobre o tema<br>*exemplo:* `/flashcards tabela periódica`              |
+| `/generatehandwrittenimage` | Monta um diagrama explicativo escrito à mão<br>*exemplo:* `/generatehandwrittenimage sistema respiratório` |
+| `/mind-map`                 | Cria um mapa mental visual ramificado sobre o tema<br>*exemplo:* `/mind-map revolução industrial`          |
+| `/quiz-me`                  | Gera um quiz de perguntas para testar o conhecimento<br>*exemplo:* `/quiz-me sistema solar`                |
+| `/skillbuilder`             | Plano de aprendizado personalizado                                                                         |
+| `/step-by-step`             | Explica um tema ou processo dividindo em etapas<br>*exemplo:* `/step-by-step ciclo da água`                |
+| `/sticky-notes`             | Monta notas adesivas explicativas em tópicos<br>*exemplo:* `/sticky-notes 3 leis de Newton`                |
+| `/timelineboard`            | Cria um quadro cronológico com imagens e textos                                                            |
+| `/visualizelearning`        | Monta uma ilustração explicativa ou infográfico<br>*exemplo:* `/visualizelearning fotossíntese`            |
+
+### Marketing, Vendas e Conteúdo
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/adcreator`                | Cria anúncios que geram cliques e conversões                                                               |
+| `/brandstory`               | Constrói a história da sua marca de forma envolvente                                                       |
+| `/contentoptimizer`         | Melhora conteúdo para SEO e engajamento                                                                    |
+| `/contentrecycler`          | Transforma uma ideia em vários conteúdos                                                                   |
+| `/copywriter`               | Textos persuasivos de marketing                                                                            |
+| `/ctaexpert`                | Cria chamadas que convertem muito mais                                                                     |
+| `/customerprompt`           | Melhora atendimento e fideliza seus clientes                                                               |
+| `/emailwizard`              | Escreve emails profissionais                                                                               |
+| `/feedbackgenius`           | Gera feedbacks úteis e construtivos                                                                        |
+| `/growthhack`               | Growth hacks virais para qualquer objetivo                                                                 |
+| `/instagram`                | Adapta para Instagram                                                                                      |
+| `/linkedinbooster`          | Otimiza perfil e conteúdo no LinkedIn                                                                      |
+| `/metaad`                   | Criativo pronto para Meta Ads                                                                              |
+| `/moneyideas`               | Ideias de negócios lucrativos                                                                              |
+| `/persuasivemode`           | Torna qualquer mensagem persuasiva                                                                         |
+| `/psychowords`              | Palavras que ativam ação e persuasão                                                                       |
+| `/reelscover`               | Capa para Reels                                                                                            |
+| `/salesbooster`             | Aumenta vendas com gatilhos mentais e persuasão                                                            |
+| `/seo`                      | Conteúdo otimizado para ranquear                                                                           |
+| `/socialmediaai`            | Cria posts que viralizam                                                                                   |
+| `/storytellerai`            | Transforma ideias em histórias                                                                             |
+| `/thumbnail`                | Thumbnail de impacto                                                                                       |
+| `/trendpredictor`           | Prevê tendências futuras do seu nicho                                                                      |
+| `/viral`                    | Composição mais chamativa                                                                                  |
+
+### Carreira, Produtividade e Bem-estar
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/automateit`               | Sugere automações e processos                                                                              |
+| `/careercoach`              | Planeja sua carreira ideal                                                                                 |
+| `/coverlettergen`           | Escreve cartas de apresentação                                                                             |
+| `/dailyplanner`             | Organiza seu dia e aumenta sua produtividade                                                               |
+| `/financetips`              | Dicas inteligentes para economizar e investir                                                              |
+| `/habittracker`             | Cria hábitos e acompanha progresso                                                                         |
+| `/healthcoach`              | Plano de saúde e bem-estar                                                                                 |
+| `/jobinterviewer`           | Simula entrevistas e dá feedback                                                                           |
+| `/mealplanner`              | Planejamento de refeições saudáveis                                                                        |
+| `/negotiationcoach`         | Treina para qualquer negociação                                                                            |
+| `/personaldeveloper`        | Plano de desenvolvimento pessoal                                                                           |
+| `/productivityboost`        | Dicas práticas para ser mais produtivo                                                                     |
+| `/resumewriter`             | Cria currículos que chamam atenção                                                                         |
+| `/travelplanner`            | Planeja viagens perfeitas                                                                                  |
+| `/workoutbuddy`             | Treinos personalizados                                                                                     |
+
+### Edição e Melhoria de Imagem
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/4k`                       | Upscale a imagem para 4K                                                                                   |
+| `/beforeafter`              | Antes e depois                                                                                             |
+| `/blackwhite`               | Preto e branco                                                                                             |
+| `/blur`                     | Aplica blur no fundo da imagem                                                                             |
+| `/cleanup`                  | Limpa imperfeições                                                                                         |
+| `/depth`                    | Aumenta a profundidade                                                                                     |
+| `/fullbody`                 | Transforma a pessoa da foto em corpo inteiro                                                               |
+| `/hdr`                      | Aumenta os detalhes                                                                                        |
+| `/hdreal`                   | Melhora a qualidade de uma foto enviada no prompt                                                          |
+| `/interiormakeover`         | Transforma e redecora o ambiente interno da foto                                                           |
+| `/light`                    | Melhora a iluminação                                                                                       |
+| `/macro`                    | Close extremo com riqueza de detalhes                                                                      |
+| `/mergepeople`              | Une duas ou mais pessoas em uma mesma imagem                                                               |
+| `/newbg`                    | Troca o fundo                                                                                              |
+| `/objectremove`             | Remove um objeto da imagem                                                                                 |
+| `/portrait`                 | Aprimora retratos                                                                                          |
+| `/relight`                  | Altera a iluminação                                                                                        |
+| `/remove`                   | Remove objetos                                                                                             |
+| `/removepeoplebgr`          | Remove pessoas da imagem                                                                                   |
+| `/sharp`                    | Aumenta a nitidez                                                                                          |
+| `/together`                 | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
+| `/transferbg`               | Transfere o fundo de uma imagem para outra                                                                 |
+| `/transferoutfit`           | Transfere a roupa de uma foto para outra                                                                   |
+| `/upscale`                  | Melhora a resolução                                                                                        |
+
+### Fotos Profissionais, Estúdio e Campanhas
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/advertising`              | Foto publicitária                                                                                          |
+| `/fashion`                  | Editorial de moda                                                                                          |
+| `fashioncampaign`           | Cria foto para campanha publicitária de moda                                                               |
+| `/lifestyle`                | Insere o produto ou pessoa em um contexto real do dia a dia                                                |
+| `/luxury`                   | Estética sofisticada e luxuosa                                                                             |
+| `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
+| `/magazine`                 | Capa de revista                                                                                            |
+| `/paparazzi`                | Foto espontânea, crua e cheia de vida                                                                      |
+| `/polaroid`                 | Efeito retrô, afetivo e instantâneo                                                                        |
+| `/poster`                   | Cria pôster                                                                                                |
+| `/productshot`              | Foto profissional de estúdio                                                                               |
+| `/proshot`                  | Foto profissional                                                                                          |
+| `/rawphoto`                 | Foto leve, natural e realista                                                                              |
+| `/shotsetup`                | Mostra o diagrama de luzes da foto                                                                         |
+| `/showcase`                 | Foto publicitária premium                                                                                  |
+| `/studio`                   | Cria cenário de estúdio                                                                                    |
+| `/studiopro`                | Fotos de portfólio profissional com iluminação de estúdio                                                  |
+
+### Personagens, Bonecos e Miniaturas
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/actionfigure`             | Transforma o personagem da foto em um boneco de ação em blister                                            |
+| `/bobblehead`               | Transforma o personagem da foto em um boneco bobblehead (cabeça que se move)                               |
+| `/crochetdoll`              | Transforma o personagem da foto em um boneco de crochê                                                     |
+| `/dioramabox`               | Cria uma arte de diorama em caixa                                                                          |
+| `/funkostyle`               | Transforma o personagem da foto em um boneco estilo Funko POP                                              |
+| `/gashapon`                 | Cria uma cápsula colecionário e uma máquina                                                                |
+| `/keychain`                 | Transforma o personagem da foto em um chaveiro                                                             |
+| `/miniature`                | Efeito miniatura                                                                                           |
+| `/miniatureroom`            | Gera a miniatura de um ambiente                                                                            |
+| `/minifig`                  | Transforma o personagem da foto em uma mini figura de LEGO                                                 |
+| `/plushie`                  | Transforma o personagem da foto em um boneco de pelúcia                                                    |
+| `/toy`                      | Estilo action figure                                                                                       |
+| `/toybox`                   | Mostra o produto dentro de uma caixa de brinquedo                                                          |
+
+### 3D, Cortes e Vistas Técnicas
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -16,110 +178,44 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/3dbillboard`              | Produto em um outdoor 3D gigante                                                                           |
 | `/3dmagazinecover`          | Produto na capa de uma revista 3D                                                                          |
 | `/3dsoftcutaway`            | Cria um corte transversal de produtos de maneira suave                                                     |
-| `/4k`                       | Upscale a imagem para 4K                                                                                   |
-| `/actionfigure`             | Transforma o personagem da foto em um boneco de ação em blister                                            |
-| `/advertising`              | Foto publicitária                                                                                          |
-| `/beforeafter`              | Antes e depois                                                                                             |
-| `/blackwhite`               | Preto e branco                                                                                             |
-| `/blur`                     | Aplica blur no fundo da imagem                                                                             |
-| `/bobblehead`               | Transforma o personagem da foto em um boneco bobblehead (cabeça que se move)                               |
-| `/cleanup`                  | Limpa imperfeições                                                                                         |
-| `comic4`                    | Cria uma tirinha de 4 quadros explicando o tema<br>*exemplo:* `comic4 gravidade`                           |
-| `/crochetdoll`              | Transforma o personagem da foto em um boneco de crochê                                                     |
-| `/crystal`                  | Produto cercado por cristais e reflexos                                                                    |
 | `/cutaway`                  | Cria uma arte de corte transversal de produtos                                                             |
-| `/cyberpunk`                | Campanha com estética cyberpunk                                                                            |
-| `/depth`                    | Aumenta a profundidade                                                                                     |
-| `/desert`                   | Produto em um deserto cinematográfico                                                                      |
-| `/dioramabox`               | Cria uma arte de diorama em caixa                                                                          |
-| `eli10`                     | Obtém respostas para uma criança de 10 anos                                                                |
-| `/energy`                   | Raios e energia visual ao redor do produto                                                                 |
 | `/explodedview`             | Mostra o produto como se estivesse desmontado em suas peças                                                |
-| `/explosion`                | Produto no centro de uma explosão visual                                                                   |
-| `/fashion`                  | Editorial de moda                                                                                          |
-| `fashioncampaign`           | Cria foto para campanha publicitária de moda                                                               |
-| `/fire`                     | Produto cercado por fogo e faíscas                                                                         |
-| `/flashcards`               | Gera cartões de estudo (flashcards) sobre o tema<br>*exemplo:* `/flashcards tabela periódica`              |
-| `/floating`                 | Produto flutuando com elementos ao redor                                                                   |
-| `/fog`                      | Produto ou sujeito cercado por neblina densa e atmosférica                                                 |
 | `/footweartechpack`         | Cria uma ficha técnica de calçados com especificações técnicas, materiais e desenhos técnicos.             |
-| `/fullbody`                 | Transforma a pessoa da foto em corpo inteiro                                                               |
-| `/funkostyle`               | Transforma o personagem da foto em um boneco estilo Funko POP                                              |
-| `/futuristic`               | Ambiente tecnológico futurista                                                                             |
-| `/gashapon`                 | Cria uma cápsula colecionário e uma máquina                                                                |
-| `/generatehandwrittenimage` | Monta um diagrama explicativo escrito à mão<br>*exemplo:* `/generatehandwrittenimage sistema respiratório` |
-| `/giant`                    | Produto gigante integrado à cidade                                                                         |
-| `/gold`                     | Campanha premium com ouro e reflexos metálicos                                                             |
-| `/hairsdiferentstyles`      | Variação de estilos de cabelo                                                                              |
-| `/hdr`                      | Aumenta os detalhes                                                                                        |
-| `/hdreal`                   | Melhora a qualidade de uma foto enviada no prompt                                                          |
-| `/hologram`                 | Hologramas e interfaces digitais                                                                           |
-| `/human`                    | Humanizar uma resposta                                                                                     |
-| `/ice`                      | Cenário congelado com gelo e cristais                                                                      |
 | `/ingredientbreakdown`      | Mostra os ingredientes do produto em uma ilustração                                                        |
 | `/ingredientexplosion`      | Mostra os ingredientes explodindo ao redor do produto                                                      |
-| `/instagram`                | Adapta para Instagram                                                                                      |
-| `/interiormakeover`         | Transforma e redecora o ambiente interno da foto                                                           |
 | `/isometricroom`            | Cria um ambiente em 3D com vista isométrica                                                                |
-| `jargonize`                 | Obtém respostas técnicas                                                                                   |
+| `/xray`                     | Mostra o interior do objeto (raio-x)                                                                       |
+
+### Cenários, Efeitos e Estilos
+
+| Comando                     | O que faz                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `/crystal`                  | Produto cercado por cristais e reflexos                                                                    |
+| `/cyberpunk`                | Campanha com estética cyberpunk                                                                            |
+| `/desert`                   | Produto em um deserto cinematográfico                                                                      |
+| `/energy`                   | Raios e energia visual ao redor do produto                                                                 |
+| `/explosion`                | Produto no centro de uma explosão visual                                                                   |
+| `/fire`                     | Produto cercado por fogo e faíscas                                                                         |
+| `/floating`                 | Produto flutuando com elementos ao redor                                                                   |
+| `/fog`                      | Produto ou sujeito cercado por neblina densa e atmosférica                                                 |
+| `/futuristic`               | Ambiente tecnológico futurista                                                                             |
+| `/giant`                    | Produto gigante integrado à cidade                                                                         |
+| `/gold`                     | Campanha premium com ouro e reflexos metálicos                                                             |
+| `/hologram`                 | Hologramas e interfaces digitais                                                                           |
+| `/ice`                      | Cenário congelado com gelo e cristais                                                                      |
 | `/jungle`                   | Produto em uma selva tropical                                                                              |
-| `/keychain`                 | Transforma o personagem da foto em um chaveiro                                                             |
-| `/lifestyle`                | Insere o produto ou pessoa em um contexto real do dia a dia                                                |
-| `/light`                    | Melhora a iluminação                                                                                       |
-| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                       |
-| `/luxury`                   | Estética sofisticada e luxuosa                                                                             |
-| `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
-| `/macro`                    | Close extremo com riqueza de detalhes                                                                      |
-| `/magazine`                 | Capa de revista                                                                                            |
-| `/mergepeople`              | Une duas ou mais pessoas em uma mesma imagem                                                               |
-| `/metaad`                   | Criativo pronto para Meta Ads                                                                              |
-| `/mind-map`                 | Cria um mapa mental visual ramificado sobre o tema<br>*exemplo:* `/mind-map revolução industrial`          |
-| `/miniature`                | Efeito miniatura                                                                                           |
-| `/miniatureroom`            | Gera a miniatura de um ambiente                                                                            |
-| `/minifig`                  | Transforma o personagem da foto em uma mini figura de LEGO                                                 |
 | `/museum`                   | Produto exposto como obra de arte                                                                          |
 | `/nature`                   | Produto integrado à natureza                                                                               |
 | `/neon`                     | Cena futurista com luzes neon                                                                              |
-| `/newbg`                    | Troca o fundo                                                                                              |
-| `/objectremove`             | Remove um objeto da imagem                                                                                 |
 | `/ocean`                    | Produto em uma cena oceânica                                                                               |
-| `/plushie`                  | Transforma o personagem da foto em um boneco de pelúcia                                                    |
 | `/portal`                   | Produto surgindo de um portal de energia                                                                   |
-| `/portrait`                 | Aprimora retratos                                                                                          |
-| `/poster`                   | Cria pôster                                                                                                |
-| `/productshot`              | Foto profissional de estúdio                                                                               |
-| `/proshot`                  | Foto profissional                                                                                          |
-| `/quiz-me`                  | Gera um quiz de perguntas para testar o conhecimento<br>*exemplo:* `/quiz-me sistema solar`                |
-| `/reelscover`               | Capa para Reels                                                                                            |
-| `/relight`                  | Altera a iluminação                                                                                        |
-| `/remove`                   | Remove objetos                                                                                             |
-| `/removepeoplebgr`          | Remove pessoas da imagem                                                                                   |
 | `/retro`                    | Estilo retrô                                                                                               |
-| `/sharp`                    | Aumenta a nitidez                                                                                          |
-| `/shotsetup`                | Mostra o diagrama de luzes da foto                                                                         |
-| `/showcase`                 | Foto publicitária premium                                                                                  |
 | `/smoke`                    | Produto cercado por fumaça dramática                                                                       |
 | `/space`                    | Produto em uma cena no espaço                                                                              |
 | `/splash`                   | Produto cercado por água ou líquido                                                                        |
-| `/step-by-step`             | Explica um tema ou processo dividindo em etapas<br>*exemplo:* `/step-by-step ciclo da água`                |
-| `/sticky-notes`             | Monta notas adesivas explicativas em tópicos<br>*exemplo:* `/sticky-notes 3 leis de Newton`                |
 | `/storm`                    | Produto em uma tempestade épica                                                                            |
-| `/studio`                   | Cria cenário de estúdio                                                                                    |
-| `/studiopro`                | Fotos de portfólio profissional com iluminação de estúdio                                                  |
-| `/thumbnail`                | Thumbnail de impacto                                                                                       |
-| `/timelineboard`            | Cria um quadro cronológico com imagens e textos                                                            |
-| `TL;DR`                     | Resume documentos ou textos longos                                                                         |
-| `/together`                 | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
-| `/toy`                      | Estilo action figure                                                                                       |
-| `/toybox`                   | Mostra o produto dentro de uma caixa de brinquedo                                                          |
-| `/transferbg`               | Transfere o fundo de uma imagem para outra                                                                 |
-| `/transferoutfit`           | Transfere a roupa de uma foto para outra                                                                   |
 | `/underwater`               | Cena subaquática                                                                                           |
-| `/upscale`                  | Melhora a resolução                                                                                        |
 | `/vintage`                  | Estilo vintage                                                                                             |
-| `/viral`                    | Composição mais chamativa                                                                                  |
-| `/visualizelearning`        | Monta uma ilustração explicativa ou infográfico<br>*exemplo:* `/visualizelearning fotossíntese`            |
-| `/xray`                     | Mostra o interior do objeto (raio-x)                                                                       |
 
 ## Formatos Criativos para Fotos de Produtos
 
@@ -197,12 +293,14 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/dramaticlighting`         | Contraste alto, sombras marcantes              |
 | `/gobopattern`              | Recorta um padrão de luz sobre o produto       |
 | `/goldenhour`               | Luz dourada do fim de tarde                    |
+| `/hardflash`                | Flash forte e visual impactante                |
 | `/highkey`                  | Cenário claro, quase sem sombras               |
 | `/imgrelight`               | Altera e ajusta a iluminação da imagem         |
 | `/lightingdiagram`          | Esquema de iluminação de cada luz              |
 | `/longexposure`             | Estelas de luz pelo tempo                      |
 | `/lowkey`                   | Cenário escuro, com um ponto de luz            |
 | `/materialswatch`           | Mostruário de materiais                        |
+| `/motionblur`               | Mais movimento e sensação de ação              |
 | `/refillsystem`             | Explica o sistema de recarga                   |
 | `/reflectionsetup`          | Reflexo limpo abaixo do produto                |
 | `/rimlight`                 | Borda iluminada ao redor do objeto             |
@@ -250,6 +348,7 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | --------------------------- | ------------------------------------------------------------------- |
 | `/35mm`                     | Grão e cor de película clássica                                     |
 | `/360view`                  | Exibe o sujeito ou produto em múltiplos ângulos (visão 360°)        |
+| `/aeroshot`                 | Visão aérea, com visão ampla e diferente                            |
 | `/albumcover`               | Capa de disco quadrada                                              |
 | `/anamorphic`               | Panorâmica com reflexos alongados                                   |
 | `/anglepack`                | Os seis ângulos de catálogo                                         |
@@ -281,11 +380,13 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/pullout`                  | Plano aberto com câmera afastada mostrando corpo inteiro e cenário  |
 | `/quotecard`                | Citação destacada em cartão                                         |
 | `/rearleft45°`              | Vista traseira esquerda em ângulo de 45 graus                       |
+| `/selfieangle`              | Cara de selfie, espontânea e próxima                                |
 | `/spinturntable`            | O produto girando no prato                                          |
 | `/timeline`                 | Linha do tempo com marcos                                           |
 | `/topdown`                  | Vista superior direta olhando de cima para baixo                    |
 | `/topdownshot`              | Vista zenital (90° diretamente de cima para baixo)                  |
 | `/topview`                  | Vista superior olhando de cima para o sujeito                       |
+| `/wide`                     | Plano aberto                                                        |
 | `/wormseyeview`             | Vista de minhoca focada da base do objeto para cima                 |
 | `/wormsview`                | Contra-plongée extremo (vista de minhoca olhando de baixo para cima)|
 
@@ -333,6 +434,7 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/butterflycut`             | Corte borboleta com camadas longas e volumosas                   |
 | `/curlyhair`                | Cabelo cacheado com volume e definição natural                   |
 | `/frenchbob`                | Corte chanel francês curto na altura do queixo                   |
+| `/hairsdiferentstyles`      | Variação de estilos de cabelo                                    |
 | `/koreanbangs`              | Cabelo liso longo com franja fina estilo coreano                 |
 | `/pixiecut`                 | Corte pixie bem curto e repicado                                 |
 | `/shagcut`                  | Corte repicado em camadas com bastante textura e movimento       |

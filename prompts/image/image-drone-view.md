@@ -1,9 +1,12 @@
 ---
 title: "Simular a viagem de um drone em uma imagem"
 category: "prompts"
-target_model: "Gemini"
+target_model:
+  - "Gemini"
+  - "ChatGPT"
 ---
 # Simular a viagem de um drone em uma imagem
+## Com a Gemini
 Edite uma imagem qualquer adicionando uma linha vermelha com os textos "start" e "end", conforme seu desejo, e gere um vídeo dessa imagem com o prompt abaixo:
 
 ```
@@ -11,3 +14,20 @@ Uma vídeo tomada contínua de 10 segundos, sem cortes, em primeira pessoa (FPV)
 ```
 
 A IA vai gerar um vídeo curto passeando pela foto como se fosse um drone, e vai fazer isso seguindo a linha vermelha que você adicionou na edição.
+
+## Com o ChatGPT
+Envie a foto e use o prompt abaixo:
+```
+Using the provided image as the visual source of truth, reconstruct the exact same moment and location from a much higher and more distant aerial drone camera position. Move the virtual camera approximately 4 times farther away and significantly upward, creating an elevated viewpoint with a natural 30-degree downward angle.
+```
+
+Se incluir o "N3" no início do prompt, a IA vai fornecer 3 opções:
+```
+N3: Using the provided image as the visual source of truth, reconstruct the exact same moment and location from a much higher and more distant aerial drone camera position.
+Move the virtual camera approximately 4 times farther away and significantly upward, creating an elevated viewpoint with a natural 30-degree downward angle.
+```
+
+Com a foto gerada, utilize o Seedance no Capcut (ou qualquer outra plataforma de vídeo), escreva:
+```
+@Image 1 is the exact start frame. Organic aerial drone orbit reveal. The drone immediately travels diagonally sideways and away from the main subject in a wide clockwise arc, gradually gaining altitude. The distance increases through realistic, smooth camera movement. The reveal should feel natural, unforced, and cinematic.
+```

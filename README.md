@@ -222,6 +222,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [Correção em fotos](prompts/image/correcao-em-fotos.md) | Ajustes e correções em imagens
 - [Foto com Desenho a Caneta](prompts/image/foto-com-desenho-a-caneta.md) | Estilo artístico de esboço a caneta
 - [Foto com Sombras Marcantes](prompts/image/foto-com-sombras-marcantes.md) | Fotografia com contraste e iluminação dramáticos
+- [Fotos profissionais com ChatGPT](prompts/image/fotos-profissionais-chatgpt.md) | Retratos profissionais usando ChatGPT
 - [Image Drone View](prompts/image/image-drone-view.md) | Visão aérea de imagens
 - [Melhoria em Fotos a partir de um JSON](prompts/image/melhoria-em-fotos-a-partir-de-um-json.md) | Melhora fotos com base em parâmetros estruturados
 - [Modificar fotos sem alterar a fisionomia](prompts/image/modificar-fotos-sem-alterar-fisionomia.md) | Altera fotos mantendo características faciais
