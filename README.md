@@ -100,7 +100,7 @@ Sistemas multiagentes estruturados com papéis bem definidos, governança (*Qual
 Um pipeline de engenharia de software ponta a ponta que transforma uma ideia em uma aplicação funcional, auditada e implantada por meio de 4 personas especializadas (`@pm`, `@engineer`, `@qa` e `@devops`):
 
 - **Diretrizes e Governança**: [Diretrizes do Time (`agents.md`)](agents/autonomous-development-team/agents.md) | Regras globais, segregação de funções, estrutura de artefatos e *Quality Gates* entre as fases
-- **Workflow Orquestrador**: [`/startcycle`](agents/workflows/startcycle.md) | Máquina de estados determinística que coordena a transição entre os agentes, aplica *Hard Stop* para aprovação humana da arquitetura e conta com *Circuit Breaker* (`MAX_RETRIES = 3`) contra loops infinitos
+- **Workflow Orquestrador**: [`/startcycle`](agents/autonomous-development-team/workflows/startcycle.md) | Máquina de estados determinística que coordena a transição entre os agentes, aplica *Hard Stop* para aprovação humana da arquitetura e conta com *Circuit Breaker* (`MAX_RETRIES = 3`) contra loops infinitos
 
 **Skills do Time:**
 - [Especificação Técnica e Arquitetura (Write Specs)](agents/autonomous-development-team/skills/write-specs.md) | (`@pm`) Entrevista o usuário para eliminar ambiguidades e consolida a arquitetura e requisitos em `artifacts/specs.md`
@@ -158,6 +158,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [Clareza de Pensamentos](prompts/analysis/clareza-de-pensamentos.md) | Organiza ideias difusas em raciocínio claro
 - [Comparar Opções](prompts/analysis/comparar-opcoes.md) | Análise comparativa estruturada para tomada de decisão
 - [Construa Modelos Mentais](prompts/analysis/construa-modelos-mentais.md) | Cria frameworks mentais para entender problemas complexos
+- [Desligue o Modo Bajulador do ChatGPT](prompts/analysis/desligue-o-modo-bajulador-do-chatgpt.md) | Prompt para desligar o modo bajulador do ChatGPT
 - [Resolução de Problemas](prompts/analysis/resolucao-de-problemas.md) | Metodologia sistemática para resolver qualquer problema
 - [Resolva Bloqueios Mentais](prompts/analysis/resolva-bloqueios-mentais.md) | Desbloqueie travamentos cognitivos e criativos
 - [Resumo de Notas de CRM para Handoff](prompts/analysis/resumo-de-notas-de-crm-para-handoff.md) | Estrutura handoffs de CRM com clareza e contexto
