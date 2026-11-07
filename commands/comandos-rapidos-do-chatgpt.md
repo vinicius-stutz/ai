@@ -66,7 +66,7 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/growthhack`               | Growth hacks virais para qualquer objetivo                                                                 |
 | `/instagram`                | Adapta para Instagram                                                                                      |
 | `/linkedinbooster`          | Otimiza perfil e conteúdo no LinkedIn                                                                      |
-| `/metaad`                   | Criativo pronto para Meta Ads                                                                              |
+| `/metaad` ou `/metaads`     | Criativo pronto para Meta Ads                                                                              |
 | `/moneyideas`               | Ideias de negócios lucrativos                                                                              |
 | `/persuasivemode`           | Torna qualquer mensagem persuasiva                                                                         |
 | `/psychowords`              | Palavras que ativam ação e persuasão                                                                       |
