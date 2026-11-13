@@ -10,19 +10,24 @@ target_model: Gemini 3.0 ou superior
 
 ## Câmera e Movimento
 
-| Comando       | O que faz                                    |
-| ------------- | -------------------------------------------- |
-| `/cinematic`  | Cria uma cena cinematográfica de vídeo       |
-| `/closeup`    | Cria um close-up cinematográfico intenso     |
-| `/dollyin`    | Aproxima a câmera lentamente do sujeito      |
-| `/dollyout`   | Afasta a câmera dramaticamente               |
-| `/droneview`  | Gera uma perspectiva aérea de drone          |
-| `/hyperlapse` | Cria movimento de câmera rápido e cinematográfico |
-| `/orbit`      | Orbita suavemente ao redor do sujeito        |
-| `/slowmotion` | Cria ação dramática em câmera lenta          |
-| `/timelapse`  | Mostra o tempo passando rapidamente          |
-| `/tracking`   | Segue o sujeito em movimento                 |
-| `/wideangle`  | Gera um plano aberto dramático               |
+| Comando       | O que faz                                         | Propósito |
+| ------------- | ------------------------------------------------- | --------- |
+| `/aerial`     | Vista aérea geral                                 | Vídeo     |
+| `/cinematic`  | Cria uma cena cinematográfica de vídeo            |           |
+| `/closeup`    | Cria um close-up cinematográfico intenso          |           |
+| `/dollyin`    | Aproxima a câmera lentamente do sujeito           |           |
+| `/dollyout`   | Afasta a câmera dramaticamente                    |           |
+| `/droneview`  | Gera uma perspectiva aérea de drone               |           |
+| `/flythrough` | Movimento de voo através de um cenário            | Vídeo     |
+| `/hyperlapse` | Cria movimento de câmera rápido e cinematográfico |           |
+| `/orbit`      | Orbita suavemente ao redor do sujeito             |           |
+| `/pan`        | Movimento horizontal (panorâmica)                 | Vídeo     |
+| `/slowmotion` | Cria ação dramática em câmera lenta               |           |
+| `/tilt`       | Movimento vertical (para cima/baixo)              | Vídeo     |
+| `/timelapse`  | Mostra o tempo passando rapidamente               |           |
+| `/tracking`   | Segue o sujeito em movimento                      |           |
+| `/wideangle`  | Gera um plano aberto dramático                    |           |
+| `/zoom`       | Aproximação ou afastamento óptico                 | Vídeo     |
 
 ## Ângulos Avançados de Câmera
 
@@ -151,3 +156,37 @@ target_model: Gemini 3.0 ou superior
 | `/portrait`       | Cria um retrato bonito e profissional          |
 | `/rimlight`       | Adiciona luz de contorno ao redor do sujeito   |
 | `/sharpfocus`     | Mantém o sujeito nítido e definido             |
+
+## Tempo, Transformação e Clima
+
+| Comando         | O que faz                              | Propósito |
+| --------------- | -------------------------------------- | --------- |
+| `/autumn`       | Cenário com cores e folhas de outono   | Vídeo     |
+| `/daytonight`   | Transição fluida de dia para noite     | Vídeo     |
+| `/fog`          | Ambiente com neblina/névoa             | Vídeo     |
+| `/rainynight`   | Estética de noite chuvosa              | Vídeo     |
+| `/seasonchange` | Transição visual entre estações do ano | Vídeo     |
+| `/snowworld`    | Ambiente com neve                      | Vídeo     |
+
+## Estilos Visuais e Retratos
+
+| Comando           | O que faz                                          | Propósito |
+| ----------------- | -------------------------------------------------- | --------- |
+| `/doubleexposure` | Efeito de sobreposição de duas imagens             | Vídeo     |
+| `/lowanglehero`   | Câmera baixa apontando para cima (traz imponência) | Vídeo     |
+| `/luxuryad`       | Estética premium para comerciais de luxo           | Vídeo     |
+| `/magazine`       | Estilo editorial/capa de revista de moda           | Vídeo     |
+| `/miniworld`      | Efeito miniatura (tilt-shift/diorama)              | Vídeo     |
+| `/moviescene`     | Estética de filme de cinema                        | Vídeo     |
+| `/neoncity`       | Visual urbano noturno e cyberpunk                  | Vídeo     |
+| `/oldmoney`       | Estética clássica, tradicional e elegante          | Vídeo     |
+| `/profheadshot`   | Retrato corporativo padronizado                    | Vídeo     |
+| `/studiopro`      | Iluminação profissional de estúdio                 | Vídeo     |
+| `/vintagefilm`    | Textura e cores de filme analógico antigo          | Vídeo     |
+
+## Exibição de Produtos e Efeitos Específicos
+
+| Comando         | O que faz                                          | Propósito |
+| --------------- | -------------------------------------------------- | --------- |
+| `/explodedview` | Vista explodida mostrando as peças separadas no ar | Vídeo     |
+| `/teardown`     | Desmontagem visual de um equipamento               | Vídeo     |
