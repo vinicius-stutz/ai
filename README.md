@@ -170,6 +170,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 
 ### 💼 Career - Carreira
 - [7 Prompts para Recolocação Profissional](prompts/career/7-prompts-para-recolocacao-profissional.md) | Estratégias completas de reposicionamento de carreira
+- [Linkedin](prompts/career/linkedin.md) | Prompts para recolocação profissional
 
 ### 🚀 Entrepreneurship - Empreendedorismo
 - [7 Prompts para Ganhar Dinheiro no YouTube](prompts/entrepreneurship/7-prompts-para-ganhar-dinheiro-no-youtube.md) | Estratégias de monetização e crescimento no YouTube
