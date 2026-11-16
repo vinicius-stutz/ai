@@ -4,7 +4,11 @@ category: "commands"
 target_model: "ChatGPT (GPT-4 ou superior)"
 ---
 # Comandos Rápidos do ChatGPT
-Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não.
+Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não. Você não precisa de prompts longos, apenas de um comando rápido!
+
+> [!NOTE]
+>
+> Lembrando que é possível combinar comandos para obter um melhor resultado.
 
 ## Respostas, Análise e Raciocínio
 
@@ -110,68 +114,80 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 
 | Comando                              | O que faz                                                                                                  |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| `/4k`                                | Upscale a imagem para 4K                                                                                   |
-| `/beforeafter`                       | Antes e depois                                                                                             |
-| `/blackwhite`                        | Preto e branco                                                                                             |
-| `/blur`                              | Aplica blur no fundo da imagem                                                                             |
-| `/cleanup`                           | Limpa imperfeições                                                                                         |
-| `/depth`                             | Aumenta a profundidade                                                                                     |
-| `/fullbody`                          | Transforma a pessoa da foto em corpo inteiro                                                               |
-| `/hdr`                               | Aumenta os detalhes                                                                                        |
-| `/hdreal`                            | Melhora a qualidade de uma foto enviada no prompt                                                          |
-| `/interiormakeover`                  | Transforma e redecora o ambiente interno da foto                                                           |
-| `/light`                             | Melhora a iluminação                                                                                       |
-| `/macro`                             | Close extremo com riqueza de detalhes                                                                      |
-| `/mergepeople`                       | Une duas ou mais pessoas em uma mesma imagem                                                               |
-| `/newbg`                             | Troca o fundo                                                                                              |
-| `/objectremove`                      | Remove um objeto da imagem                                                                                 |
-| `/portrait`                          | Aprimora retratos                                                                                          |
-| `/relight`                           | Altera a iluminação                                                                                        |
-| `/remove`                            | Remove objetos                                                                                             |
-| `/removepeoplebgr`                   | Remove pessoas da imagem                                                                                   |
-| `/sharp`                             | Aumenta a nitidez                                                                                          |
-| `/together`                          | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
-| `/transferbg`                        | Transfere o fundo de uma imagem para outra                                                                 |
-| `/transfercameraanglefrom1to2`       | Transfere o ângulo de câmera da foto 1 para a foto 2 (anexando 2 fotografias)                              |
-| `/transferfacialexpressionfrom1to2`  | Transfere a expressão facial da foto 1 para a foto 2 (anexando 2 fotografias)                              |
-| `/transferhair1to2`                  | Transfere o cabelo da foto 1 para a foto 2 (anexando 2 fotografias)                                        |
-| `/transfermakeupfrommodel1to2`       | Transfere a maquiagem da modelo da foto 1 para a foto 2 (anexando 2 fotografias)                           |
-| `/transferoutfit`                    | Transfere a roupa de uma foto para outra                                                                   |
-| `/transferposefrom1to2`              | Transfere a pose da foto 1 para a foto 2 (anexando 2 fotografias)                                          |
-| `/upscale`                           | Melhora a resolução                                                                                        |
+| `/4k`                               | Upscale a imagem para 4K                                                         |
+| `/8k`                               | Upscale a imagem para 8K                                                         |
+| `/beforeafter`                      | Antes e depois                                                                   |
+| `/blackwhite`                       | Preto e branco                                                                   |
+| `/blur`                             | Aplica blur no fundo da imagem                                                   |
+| `/cleanup`                          | Limpa imperfeições                                                               |
+| `/depth`                            | Aumenta a profundidade                                                           |
+| `/fullbody`                         | Transforma a pessoa da foto em corpo inteiro                                     |
+| `/hdr`                              | Aumenta os detalhes                                                              |
+| `/hdreal`                           | Melhora a qualidade de uma foto enviada no prompt                                |
+| `/identitylock`                     | Corrige a foto anexada sem alterar nenhum traço da pessoa                        |
+| `/interiormakeover`                 | Transforma e redecora o ambiente interno da foto                                 |
+| `/light`                            | Melhora a iluminação                                                             |
+| `/macro`                            | Close extremo com riqueza de detalhes                                            |
+| `/mergepeople`                      | Une duas ou mais pessoas em uma mesma imagem                                     |
+| `/newbg`                            | Troca o fundo                                                                    |
+| `/objectremove`                     | Remove um objeto da imagem                                                       |
+| `/portrait`                         | Aprimora retratos                                                                |
+| `/poseonly`                         | Altera a pose da pessoa na foto anexada                                          |
+| `/relight`                          | Altera a iluminação                                                              |
+| `/remove`                           | Remove objetos                                                                   |
+| `/removepeoplebgr`                  | Remove pessoas da imagem                                                         |
+| `/sharp`                            | Aumenta a nitidez                                                                |
+| `/together`                         | Entrega uma foto com 2 pessoas no mesmo cenário                                  |
+| `/transferbg`                       | Transfere o fundo de uma imagem para outra                                       |
+| `/transfercameraanglefrom1to2`      | Transfere o ângulo de câmera da foto 1 para a foto 2 (anexando 2 fotografias)    |
+| `/transferfacialexpressionfrom1to2` | Transfere a expressão facial da foto 1 para a foto 2 (anexando 2 fotografias)    |
+| `/transferhair1to2`                 | Transfere o cabelo da foto 1 para a foto 2 (anexando 2 fotografias)              |
+| `/transfermakeupfrommodel1to2`      | Transfere a maquiagem da modelo da foto 1 para a foto 2 (anexando 2 fotografias) |
+| `/transferoutfit`                   | Transfere a roupa de uma foto para outra                                         |
+| `/transferposefrom1to2`             | Transfere a pose da foto 1 para a foto 2 (anexando 2 fotografias)                |
+| `/ultrarealistic`                   | Deixa a imagem ultra realista                                                    |
+| `/upscale`                          | Melhora a resolução                                                              |
 
 ## Fotos Profissionais, Estúdio e Campanhas
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `/advertising`              | Foto publicitária                                                                                          |
-| `/editorial`                | Capa de revista                                                                                            |
-| `/fashion`                  | Editorial de moda                                                                                          |
-| `fashioncampaign`           | Cria foto para campanha publicitária de moda                                                               |
-| `/flash`                    | Como se fosse tirada com flash                                                                             |
-| `/foodphoto`                | Vira foto de cardápio                                                                                      |
-| `/headshot`                 | Vira foto de perfil                                                                                        |
-| `/lifestyle`                | Insere o produto ou pessoa em um contexto real do dia a dia                                                |
-| `/luxury`                   | Estética sofisticada e luxuosa                                                                             |
-| `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
-| `/magazine`                 | Capa de revista                                                                                            |
-| `/minimal`                  | Limpa tudo e simplifica                                                                                    |
-| `/moody`                    | Clima mais dramático                                                                                       |
-| `/nightphoto`               | Vira foto noturna                                                                                          |
-| `/paparazzi`                | Foto espontânea, crua e cheia de vida                                                                      |
-| `/polaroid`                 | Efeito retrô, afetivo e instantâneo                                                                        |
-| `/poster`                   | Cria pôster                                                                                                |
-| `/productpremium`           | Foto premium de produto                                                                                    |
-| `/productshot`              | Foto profissional de estúdio                                                                               |
-| `/proshot`                  | Foto profissional                                                                                          |
-| `/rawphoto`                 | Foto leve, natural e realista                                                                              |
-| `/selfie`                   | Transforma em selfie                                                                                       |
-| `/shotsetup`                | Mostra o diagrama de luzes da foto                                                                         |
-| `/showcase`                 | Foto publicitária premium                                                                                  |
-| `/studio`                   | Cria cenário de estúdio                                                                                    |
-| `/studiopro`                | Fotos de portfólio profissional com iluminação de estúdio                                                  |
-| `/ugc`                      | Parece gravado por um cliente                                                                              |
-| `/workspace`                | Coloca numa mesa de trabalho                                                                               |
+| `/35mmfilm`         | Estética de filme fotográfico 35mm                                                                                 |
+| `/advertising`      | Foto publicitária                                                                                                  |
+| `/disposablecamera` | Visual de câmera descartável                                                                                       |
+| `/editorial`        | Capa de revista                                                                                                    |
+| `/fashion`          | Editorial de moda                                                                                                  |
+| `fashioncampaign`   | Cria foto para campanha publicitária de moda                                                                       |
+| `/filmgrain`        | Adiciona granulação de filme                                                                                       |
+| `/flash`            | Como se fosse tirada com flash                                                                                     |
+| `/foodphoto`        | Vira foto de cardápio                                                                                              |
+| `/headshot`         | Vira foto de perfil                                                                                                |
+| `/instantphoto`     | Estilo de foto instantânea                                                                                         |
+| `/lifestyle`        | Insere o produto ou pessoa em um contexto real do dia a dia                                                        |
+| `/luxury`           | Estética sofisticada e luxuosa                                                                                     |
+| `/luxurylifestyle`  | Mostra o prodato em um contexto de estilo de vida luxuoso                                                          |
+| `/magazine`         | Capa de revista                                                                                                    |
+| `/magazinecover`    | Capa de revista                                                                                                    |
+| `/minimal`          | Limpa tudo e simplifica                                                                                            |
+| `/minimalist`       | Visual limpo e minimalista                                                                                         |
+| `/moody`            | Clima mais dramático                                                                                               |
+| `/nightphoto`       | Vira foto noturna                                                                                                  |
+| `/oldmoney`         | Estética clássica, tradicional e elegante                                                                          |
+| `/paparazzi`        | Foto espontânea, crua e cheia de vida                                                                              |
+| `/polaroid`         | Efeito retrô, afetivo e instantâneo                                                                                |
+| `/poster`           | Cria pôster                                                                                                        |
+| `/productpremium`   | Foto premium de produto                                                                                            |
+| `/productshot`      | Foto profissional de estúdio                                                                                       |
+| `/proshot`          | Foto profissional                                                                                                  |
+| `/rawphoto`         | Foto leve, natural e realista                                                                                      |
+| `/selfie`           | Transforma em selfie                                                                                               |
+| `/shotsetup`        | Mostra o diagrama de luzes da foto                                                                                 |
+| `/showcase`         | Foto publicitária premium                                                                                          |
+| `/studio`           | Cria cenário de estúdio                                                                                            |
+| `/studiopro`        | Fotos de portfólio profissional com iluminação de estúdio                                                          |
+| `/studioquality`    | Aplica efeito de iluminação de estúdio profissional na foto anexada                                                |
+| `/ugc`              | Parece gravado por um cliente                                                                                      |
+| `/workspace`        | Coloca numa mesa de trabalho                                                                                       |
 
 ## Personagens, Bonecos e Miniaturas
 
@@ -211,34 +227,50 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 
 ## Cenários, Efeitos e Estilos
 
-| Comando                     | O que faz                                                                                                  |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `/crystal`                  | Produto cercado por cristais e reflexos                                                                    |
-| `/cyberpunk`                | Campanha com estética cyberpunk                                                                            |
-| `/desert`                   | Produto em um deserto cinematográfico                                                                      |
-| `/energy`                   | Raios e energia visual ao redor do produto                                                                 |
-| `/explosion`                | Produto no centro de uma explosão visual                                                                   |
-| `/fire`                     | Produto cercado por fogo e faíscas                                                                         |
-| `/floating`                 | Produto flutuando com elementos ao redor                                                                   |
-| `/fog`                      | Produto ou sujeito cercado por neblina densa e atmosférica                                                 |
-| `/futuristic`               | Ambiente tecnológico futurista                                                                             |
-| `/giant`                    | Produto gigante integrado à cidade                                                                         |
-| `/gold`                     | Campanha premium com ouro e reflexos metálicos                                                             |
-| `/hologram`                 | Hologramas e interfaces digitais                                                                           |
-| `/ice`                      | Cenário congelado com gelo e cristais                                                                      |
-| `/jungle`                   | Produto em uma selva tropical                                                                              |
-| `/museum`                   | Produto exposto como obra de arte                                                                          |
-| `/nature`                   | Produto integrado à natureza                                                                               |
-| `/neon`                     | Cena futurista com luzes neon                                                                              |
-| `/ocean`                    | Produto em uma cena oceânica                                                                               |
-| `/portal`                   | Produto surgindo de um portal de energia                                                                   |
-| `/retro`                    | Estilo retrô                                                                                               |
-| `/smoke`                    | Produto cercado por fumaça dramática                                                                       |
-| `/space`                    | Produto em uma cena no espaço                                                                              |
-| `/splash`                   | Produto cercado por água ou líquido                                                                        |
-| `/storm`                    | Produto em uma tempestade épica                                                                            |
-| `/underwater`               | Cena subaquática                                                                                           |
-| `/vintage`                  | Estilo vintage                                                                                             |
+| Comando                     | O que faz                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| `/beach`                    | Cenário de praia                                                                                                    |
+| `/cityscape`                | Paisagem urbana                                                                                                     |
+| `/clear`                    | Céu limpo e ensolarado                                                                                              |
+| `/cloudy`                   | Céu nublado                                                                                                         |
+| `/crystal`                  | Produto cercado por cristais e reflexos                                                                             |
+| `/cyberpunk`                | Campanha com estética cyberpunk                                                                                     |
+| `/desert`                   | Produto em um deserto cinematográfico                                                                               |
+| `/energy`                   | Raios e energia visual ao redor do produto                                                                          |
+| `/explosion`                | Produto no centro de uma explosão visual                                                                            |
+| `/fantasy`                  | Cenário fantástico                                                                                                  |
+| `/fire`                     | Produto cercado por fogo e faíscas                                                                                  |
+| `/floating`                 | Produto flutuando com elementos ao redor                                                                            |
+| `/fog`                      | Produto ou sujeito cercado por neblina densa e atmosférica                                                          |
+| `/forest`                   | Cenário de floresta                                                                                                 |
+| `/futuristic`               | Ambiente tecnológico futurista                                                                                      |
+| `/giant`                    | Produto gigante integrado à cidade                                                                                  |
+| `/gold`                     | Campanha premium com ouro e reflexos metálicos                                                                      |
+| `/hologram`                 | Hologramas e interfaces digitais                                                                                    |
+| `/ice`                      | Cenário congelado com gelo e cristais                                                                               |
+| `/jungle`                   | Produto em uma selva tropical                                                                                       |
+| `/mist`                     | Névoa leve e atmosférica                                                                                            |
+| `/mountains`                | Cenário de montanhas                                                                                                |
+| `/museum`                   | Produto exposto como obra de arte                                                                                   |
+| `/nature`                   | Produto integrado à natureza                                                                                        |
+| `/neon`                     | Cena futurista com luzes neon                                                                                       |
+| `/night`                    | Cena noturna                                                                                                        |
+| `/nightcity`                | Cidade noturna iluminada                                                                                            |
+| `/ocean`                    | Produto em uma cena oceânica                                                                                        |
+| `/portal`                   | Produto surgindo de um portal de energia                                                                            |
+| `/postapocalyptic`          | Cenário pós-apocalíptico                                                                                            |
+| `/rain`                     | Chuva na cena                                                                                                       |
+| `/rainynight`               | Noite chuvosa                                                                                                       |
+| `/retro`                    | Estilo retrô                                                                                                        |
+| `/smoke`                    | Produto cercado por fumaça dramática                                                                                |
+| `/snow`                     | Neve na cena                                                                                                        |
+| `/space`                    | Produto em uma cena no espaço                                                                                       |
+| `/splash`                   | Produto cercado por água ou líquido                                                                                 |
+| `/storm`                    | Produto em uma tempestade épica                                                                                     |
+| `/sunrise`                  | Nascer do sol                                                                                                       |
+| `/sunset`                   | Pôr do sol                                                                                                          |
+| `/underwater`               | Cena subaquática                                                                                                    |
+| `/vintage`                  | Estilo vintage                                                                                                      |
 
 ## Formatos Criativos para Fotos de Produtos
 
@@ -306,34 +338,37 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 
 | Comando                     | O que faz                                      |
 | --------------------------- | ---------------------------------------------- |
-| `/backlight`                | Luz de trás, sujeito a contraluz               |
-| `/bluehour`                 | Luz azul fria do crepúsculo                    |
-| `/bokeh`                    | Fundo com pontos de luz (bokeh)                |
-| `/boxset`                   | O kit completo com todas as suas partes        |
-| `/cinematic`                | Luz e enquadramento de filme                   |
-| `/colorgelset`              | Ilumina o set com géis de cor                  |
-| `/colorway`                 | A mesma peça em várias cores                   |
-| `/dramaticlighting`         | Contraste alto, sombras marcantes              |
-| `/gobopattern`              | Recorta um padrão de luz sobre o produto       |
-| `/goldenhour`               | Luz dourada do fim de tarde                    |
-| `/hardflash`                | Flash forte e visual impactante                |
-| `/highkey`                  | Cenário claro, quase sem sombras               |
-| `/imgrelight`               | Altera e ajusta a iluminação da imagem         |
-| `/lightingdiagram`          | Esquema de iluminação de cada luz              |
-| `/longexposure`             | Estelas de luz pelo tempo                      |
-| `/lowkey`                   | Cenário escuro, com um ponto de luz            |
-| `/materialswatch`           | Mostruário de materiais                        |
-| `/motionblur`               | Mais movimento e sensação de ação              |
-| `/refillsystem`             | Explica o sistema de recarga                   |
-| `/reflectionsetup`          | Reflexo limpo abaixo do produto                |
-| `/rimlight`                 | Borda iluminada ao redor do objeto             |
-| `/sachetrow`                | Todos os formatos alinhados                    |
-| `/shadowplay`               | A sombra dura como elemento gráfico            |
-| `/shallowdepth`             | Sujeito nítido, fundo desfocado                |
-| `/softlighting`             | Luz difusa, sombras suaves                     |
-| `/tiltshift`                | A miniatura por desfoque                       |
-| `/unboxingsequence`         | A abertura da caixa passo a passo              |
-| `/volumetriclight`          | Fazes de luz visíveis no ar (efeito de volume) |
+| `/backlight`        | Luz de trás, sujeito a contraluz               |
+| `/bluehour`         | Luz azul fria do crepúsculo                    |
+| `/bokeh`            | Fundo com pontos de luz (bokeh)                |
+| `/boxset`           | O kit completo com todas as suas partes        |
+| `/cinematic`        | Luz e enquadramento de filme                   |
+| `/colorgelset`      | Ilumina o set com géis de cor                  |
+| `/colorway`         | A mesma peça em várias cores                   |
+| `/dramaticlighting` | Contraste alto, sombras marcantes              |
+| `/gobopattern`      | Recorta um padrão de luz sobre o produto       |
+| `/godrays`          | Raios de luz atravessando a cena               |
+| `/goldenhour`       | Luz dourada do fim de tarde                    |
+| `/hardflash`        | Flash forte e visual impactante                |
+| `/highkey`          | Cenário claro, quase sem sombras               |
+| `/imgrelight`       | Altera e ajusta a iluminação da imagem         |
+| `/lightingdiagram`  | Esquema de iluminação de cada luz              |
+| `/longexposure`     | Estelas de luz pelo tempo                      |
+| `/lowkey`           | Cenário escuro, com um ponto de luz            |
+| `/materialswatch`   | Mostruário de materiais                        |
+| `/moonlight`        | Iluminação fria de luar                        |
+| `/motionblur`       | Mais movimento e sensação de ação              |
+| `/neonlights`       | Iluminação neon vibrante                       |
+| `/refillsystem`     | Explica o sistema de recarga                   |
+| `/reflectionsetup`  | Reflexo limpo abaixo do produto                |
+| `/rimlight`         | Borda iluminada ao redor do objeto             |
+| `/sachetrow`        | Todos os formatos alinhados                    |
+| `/shadowplay`       | A sombra dura como elemento gráfico            |
+| `/shallowdepth`     | Sujeito nítido, fundo desfocado                |
+| `/softlighting`     | Luz difusa, sombras suaves                     |
+| `/tiltshift`        | A miniatura por desfoque                       |
+| `/unboxingsequence` | A abertura da caixa passo a passo              |
+| `/volumetriclight`  | Fazes de luz visíveis no ar (efeito de volume) |
 
 ## Cenário, Prova e Anúncio
 
@@ -369,84 +404,92 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 
 | Comando                     | O que faz                                                           |
 | --------------------------- | ------------------------------------------------------------------- |
-| `/35mm`                     | Grão e cor de película clássica                                     |
-| `/360view`                  | Exibe o sujeito ou produto em múltiplos ângulos (visão 360°)        |
-| `/aeroshot`                 | Visão aérea, com visão ampla e diferente                            |
-| `/albumcover`               | Capa de disco quadrada                                              |
-| `/anamorphic`               | Panorâmica com reflexos alongados                                   |
-| `/anglepack`                | Os seis ângulos de catálogo                                         |
-| `/archivewall`              | Todo o catálogo em uma parede                                       |
-| `/backview`                 | De costas, cara oculta ou parte traseira do produto                 |
-| `/billboard`                | Painel publicitário em contexto                                     |
-| `/birdseye`                 | Vista de pássaro (de cima para baixo em ângulo aberto)              |
-| `/bookcover`                | Capa de livro                                                       |
-| `/cameramove`               | Descreve o movimento de câmera                                      |
-| `/closeup`                  | Plano fechado focando no rosto ou nos detalhes do produto           |
-| `/droneview`                | Vista aérea como feita por drone                                    |
-| `/duotoneportrait`          | Retrato em duas tintas planas                                       |
-| `/dutchangle`               | Horizonte inclinado, tensão                                         |
-| `/environmentalportrait`    | A pessoa em seu local de trabalho                                   |
-| `/extremecloseup`           | Um detalhe ocupa o quadro                                           |
-| `/founderframe`             | O fundador com seu produto                                          |
-| `/frontview`                | Vista frontal direta na altura do sujeito ou produto                |
-| `/gridboard`                | A mesma tomada em nove variantes                                    |
-| `/groundlevel`              | Câmera posicionada no nível do chão/rua                             |
-| `/handsinuse`               | Só as mãos usando o produto                                         |
-| `/highangleview`            | Ângulo alto (plongée), olhando de cima em diagonal                  |
-| `/keyframepair`             | Primeiro e último quadro do clipe                                   |
-| `/lifestyleshot`            | Seu produto em uso real                                             |
-| `/lowangle`                 | Desde baixo, te faz parecer maior                                   |
-| `/manifestoposter`          | Seu manifesto como cartaz                                           |
-| `/monumentalangle`          | Ângulo monumental de baixo para cima, destacando imponência         |
-| `/newspaper`                | Página de periódico impressa                                        |
-| `/overhead`                 | Câmera justo em cima                                                |
-| `/pullout`                  | Plano aberto com câmera afastada mostrando corpo inteiro e cenário  |
-| `/quotecard`                | Citação destacada em cartão                                         |
-| `/rearleft45°`              | Vista traseira esquerda em ângulo de 45 graus                       |
-| `/selfieangle`              | Cara de selfie, espontânea e próxima                                |
-| `/spinturntable`            | O produto girando no prato                                          |
-| `/timeline`                 | Linha do tempo com marcos                                           |
-| `/topdown`                  | Vista superior direta olhando de cima para baixo                    |
-| `/topdownshot`              | Vista zenital (90° diretamente de cima para baixo)                  |
-| `/topview`                  | Vista superior olhando de cima para o sujeito                       |
-| `/wide`                     | Plano aberto                                                        |
-| `/wormseyeview`             | Vista de minhoca focada da base do objeto para cima                 |
-| `/wormsview`                | Contra-plongée extremo (vista de minhoca olhando de baixo para cima)|
+| `/35mm`                  | Grão e cor de película clássica                                      |
+| `/360view`               | Exibe o sujeito ou produto em múltiplos ângulos (visão 360°)         |
+| `/aerialview`            | Vista aérea geral                                                    |
+| `/aeroshot`              | Visão aérea, com visão ampla e diferente                             |
+| `/albumcover`            | Capa de disco quadrada                                               |
+| `/anamorphic`            | Panorâmica com reflexos alongados                                    |
+| `/anglepack`             | Os seis ângulos de catálogo                                          |
+| `/archivewall`           | Todo o catálogo em uma parede                                        |
+| `/backview`              | De costas, cara oculta ou parte traseira do produto                  |
+| `/billboard`             | Painel publicitário em contexto                                      |
+| `/birdseye`              | Vista de pássaro (de cima para baixo em ângulo aberto)               |
+| `/bookcover`             | Capa de livro                                                        |
+| `/cameramove`            | Descreve o movimento de câmera                                       |
+| `/closeup`               | Plano fechado focando no rosto ou nos detalhes do produto            |
+| `/droneview`             | Vista aérea como feita por drone                                     |
+| `/duotoneportrait`       | Retrato em duas tintas planas                                        |
+| `/dutchangle`            | Horizonte inclinado, tensão                                          |
+| `/environmentalportrait` | A pessoa em seu local de trabalho                                    |
+| `/extremecloseup`        | Um detalhe ocupa o quadro                                            |
+| `/fisheye`               | Lente olho de peixe (distorção ampla)                                |
+| `/founderframe`          | O fundador com seu produto                                           |
+| `/freezeaction`          | Congela a ação em movimento                                          |
+| `/frontview`             | Vista frontal direta na altura do sujeito ou produto                 |
+| `/gridboard`             | A mesma tomada em nove variantes                                     |
+| `/groundlevel`           | Câmera posicionada no nível do chão/rua                              |
+| `/handsinuse`            | Só as mãos usando o produto                                          |
+| `/highangle`             | Ângulo de cima para baixo                                            |
+| `/highangleview`         | Ângulo alto (plongée), olhando de cima em diagonal                   |
+| `/keyframepair`          | Primeiro e último quadro do clipe                                    |
+| `/lifestyleshot`         | Seu produto em uso real                                              |
+| `/lowangle`              | Desde baixo, te faz parecer maior                                    |
+| `/manifestoposter`       | Seu manifesto como cartaz                                            |
+| `/monumentalangle`       | Ângulo monumental de baixo para cima, destacando imponência          |
+| `/newspaper`             | Página de periódico impressa                                         |
+| `/overhead`              | Câmera justo em cima                                                 |
+| `/overtheshoulder`       | Plano por cima do ombro                                              |
+| `/pov`                   | Visão em primeira pessoa                                             |
+| `/pullout`               | Plano aberto com câmera afastada mostrando corpo inteiro e cenário   |
+| `/quotecard`             | Citação destacada em cartão                                          |
+| `/rearleft45°`           | Vista traseira esquerda em ângulo de 45 graus                        |
+| `/selfieangle`           | Cara de selfie, espontânea e próxima                                 |
+| `/sideview`              | Vista lateral                                                        |
+| `/spinturntable`         | O produto girando no prato                                           |
+| `/timeline`              | Linha do tempo com marcos                                            |
+| `/topdown`               | Vista superior direta olhando de cima para baixo                     |
+| `/topdownshot`           | Vista zenital (90° diretamente de cima para baixo)                   |
+| `/topview`               | Vista superior olhando de cima para o sujeito                        |
+| `/wide`                  | Plano aberto                                                         |
+| `/wideangle`             | Lente grande angular (amplo campo de visão)                          |
+| `/wormseyeview`          | Vista de minhoca focada da base do objeto para cima                  |
+| `/wormsview`             | Contra-plongée extremo (vista de minhoca olhando de baixo para cima) |
 
 ## Detalhes
 
-| Comando                     | O que faz                               |
-| --------------------------- | --------------------------------------- |
-| `/anatomy`                  | Estrutura interna                       |
-| `/annotated`                | Com setas e notas acima                 |
-| `/blueprint`                | Plano azul de arquiteto                 |
-| `/construction`             | Como está construído, capa a capa       |
-| `/crosssection`             | Corte limpo de livro de texto           |
-| `/diagram`                  | Diagrama visual                         |
-| `/dieline`                  | Faca da embalagem desdobrada            |
-| `/dimensioned`              | Com cotas e medidas                     |
-| `/exploded`                 | Objeto desmontado                       |
-| `/fabricmacro`              | Macro detalhando a trama do tecido      |
-| `/floorplan`                | Planta vista de cima                    |
-| `/flowchart`                | Diagrama de fluxo com caixas            |
-| `/ghostedview`              | Carcaça transparente, mecanismo visível |
-| `/infographic`              | Ordena a informação como infográfico    |
-| `/isometric`                | Maquete a quarenta e cinco graus        |
-| `/layercut`                 | Corte que mostra as camadas             |
-| `/layerview`                | As capas empilhadas e visíveis          |
-| `/materialcallout`          | Sinaliza cada material na foto          |
-| `/microscopeview`           | O teste visto ao microscópio            |
-| `/microscopic`              | Visão microscópica                      |
-| `/orthographic`             | Sem perspectiva, tudo à escala          |
-| `/partsdiagram`             | As peças numeradas em fila              |
-| `/patentdrawing`            | Desenho de patente antiga               |
-| `/schematic`                | Esquema técnico com referências         |
-| `/sizechart`                | Tabela de tamanhos como gráfico         |
-| `/skeletalview`             | Só a estrutura, sem pele                |
-| `/spectable`                | Tabela de especificações ao lado        |
-| `/teardown`                 | Todas as peças sobre a mesa             |
-| `/texturemacro`             | A textura a milímetros                  |
-| `/wireframe`                | Malha de linhas sem preenchimento       |
+| Comando                       | O que faz                               |
+| ----------------------------- | --------------------------------------- |
+| `/anatomy`                    | Estrutura interna                       |
+| `/annotated`                  | Com setas e notas acima                 |
+| `/blueprint`                  | Plano azul de arquiteto                 |
+| `/construction`               | Como está construído, capa a capa       |
+| `/crosssection`               | Corte limpo de livro de texto           |
+| `/diagram`                    | Diagrama visual                         |
+| `/dieline`                    | Faca da embalagem desdobrada            |
+| `/dimensioned`                | Com cotas e medidas                     |
+| `/exploded`                   | Objeto desmontado                       |
+| `/fabricmacro`                | Macro detalhando a trama do tecido      |
+| `/floorplan`                  | Planta vista de cima                    |
+| `/flowchart` ou `/fluxograma` | Diagrama de fluxo com caixas            |
+| `/ghostedview`                | Carcaça transparente, mecanismo visível |
+| `/infographic`                | Ordena a informação como infográfico    |
+| `/isometric`                  | Maquete a quarenta e cinco graus        |
+| `/layercut`                   | Corte que mostra as camadas             |
+| `/layerview`                  | As capas empilhadas e visíveis          |
+| `/materialcallout`            | Sinaliza cada material na foto          |
+| `/microscopeview`             | O teste visto ao microscópio            |
+| `/microscopic`                | Visão microscópica                      |
+| `/orthographic`               | Sem perspectiva, tudo à escala          |
+| `/partsdiagram`               | As peças numeradas em fila              |
+| `/patentdrawing`              | Desenho de patente antiga               |
+| `/schematic`                  | Esquema técnico com referências         |
+| `/sizechart`                  | Tabela de tamanhos como gráfico         |
+| `/skeletalview`               | Só a estrutura, sem pele                |
+| `/spectable`                  | Tabela de especificações ao lado        |
+| `/teardown`                   | Todas as peças sobre a mesa             |
+| `/texturemacro`               | A textura a milímetros                  |
+| `/wireframe`                  | Malha de linhas sem preenchimento       |
 
 ## Cortes e Estilos de Cabelo
 
@@ -479,10 +522,18 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 
 ## Estilos Artísticos e Ilustração
 
-| Comando                     | O que faz                                                        |
-| --------------------------- | ---------------------------------------------------------------- |
-| `/anime`                    | Estilo anime                                                     |
-| `/comic`                    | Estilo história em quadrinhos                                    |
-| `/sketch`                   | Vira desenho                                                     |
-| `/sticker`                  | Vira figurinha                                                   |
-| `/watercolor`               | Pintura em aquarela                                              |
+| Comando                     | O que faz                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------- |
+| `/3drender`                 | Renderização 3D realista                                                     |
+| `/anime`                    | Estilo anime                                                                 |
+| `/chrome`                   | Efeito metálico cromado                                                      |
+| `/claystyle`                | Estilo massinha/argila                                                       |
+| `/comic`                    | Estilo história em quadrinhos                                                |
+| `/comicbook`                | Estilo história em quadrinhos                                                |
+| `/glassart`                 | Escultura ou efeito em vidro                                                 |
+| `/oilpainting`              | Pintura a óleo                                                               |
+| `/papercraft`               | Estilo recorte de papel (papercraft)                                         |
+| `/quadrinhosdidaticos`      | Estilo história em quadrinhos para explicar didaticamente qualquer tema      |
+| `/sketch`                   | Vira desenho                                                                 |
+| `/sticker`                  | Vira figurinha                                                               |
+| `/watercolor`               | Pintura em aquarela                                                          |

@@ -50,8 +50,14 @@ Luz solar frontal, preservando totalmente todos os detalhes originais da foto se
 ```
 
 ## Restaurar fotos antigas
+### Prompt 1
 ```
 Restaure esta foto utilizando técnicas historicamente compatíveis com a época, corrigindo quaisquer problemas causados pelo envelhecimento, como desfoque, danos, desbotamento, arranhões, rasgos, dobras, áreas desgastadas ou o fato de estar em preto e branco. Primeiro, analise a imagem para identificar a época aproximada e o processo fotográfico original, garantindo uma restauração historicamente precisa. Faça com que ela pareça renovada e nítida, aprimorando suavemente as bordas, adotando traços faciais sem exageros, suavizando granulações ou ruídos caso existam e reconstruindo partes ausentes com texturas realistas que combinem com o original. Se as cores estiverem desbotadas ou ausentes, restaure-as de forma natural, vibrante e fiel à tecnologia fotográfica da época, sem aparência artificial; equilibre as cores para corresponder à iluminação natural, ajuste brilho e contraste para destacar bem todos os elementos e mantenha a tonalidade original. Adicione detalhes sutis aos rostos, objetos ou fundos que possam ter se perdido, como linhas finas nas roupas, texturas de pele realistas ou pequenos elementos do cenário, mantendo a sensação autêntica da imagem, preservando os padrões naturais de grão e sem alterar a composição. Garanta que toda a imagem fique equilibrada, sem sombras excessivamente duras ou áreas estouradas, removendo defeitos técnicos enquanto respeita o charme nostálgico e as características de exposição da época. Por fim, aumente a resolução para um nível mais alto, como Full HD 32K, para obter maior clareza, entregando um resultado foto-realista que pareça uma fotografia profissionalmente restaurada ou uma foto recente de alta qualidade.
+```
+
+### Prompt 2
+```
+Restaure completamente esta fotografia antiga mantendo 100% da identidade e dos traços faciais originais da pessoa. Remova destoque, ruídos, manchas, riscos, marcas do tempo amassados e imperteições causadas pelo envelhecimento da toto. Aumente drasticamente a nitidez, definição dos detalhes, textura da pele, olnos, cabelo e roupas, sem alterar a aparencia real da pessoal. Corrija a iluminação, contraste, exposição e cores para deixar a imagem mais viva, natural e moderna, como se tivesse sido fotografada com uma câmera profissional atual. Recupere detalhes perdidos, melhore a resolução para qualidade ultra HD, elimine áreas borradas e reconstrua elementos danificados de forma realista. Mantenha a fotografia com aparência autêntica, natural e extremamente realista, sem efeito de desenho, pintura ou inteligência artificial
 ```
 
 ## Iluminação estilo comercial de luxo

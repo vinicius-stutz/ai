@@ -4,6 +4,8 @@ category: commands
 target_model: Gemini 3.0 ou superior
 ---
 # Comandos Rápidos do Gemini
+Você não precisa de prompts longos, apenas de um comando rápido com `@` ou `/`!
+
 - `@youtube {{LINK_DO_VIDEO}}`: Envie para o Gemini um vídeo do YouTube para que ele faça um resumo do conteúdo.
 - `@gmail {{QUALQUER_PERGUNTA}}`: Traz informações da sua caixa de entrada.
 - `@drive {{LINK_DO_DOCUMENTO}}`: Peça para o Gemini resumir um documento do Google Drive.
@@ -207,3 +209,13 @@ target_model: Gemini 3.0 ou superior
 | `/critic`   | Traz uma visão crítica do livro (anexando a capa)                                             |
 | `/research` | Traz os principais eixos temáticos do livro (anexando a capa)                                 |
 | `/teacher`  | Resume os temas mais importantes do livro no ponto de vista de um professor (anexando a capa) |
+
+## Animação de Logomarcas
+
+| Comando                   | O que faz                                                                                                  | Propósito |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| `/logo-kinetic-reveal`    | Revelação cinética da logomarca a partir de foto anexada (compatível com Google Flow)                      | Vídeo     |
+| `/logo-light-trace`       | Traçado de luz formando a logomarca a partir de foto anexada (compatível com Google Flow)                  | Vídeo     |
+| `/logo-liquid-form`       | Formação líquida da logomarca a partir de foto anexada (compatível com Google Flow)                        | Vídeo     |
+| `/logo-liquid-swash`      | Movimento fluido/swash líquido revelando a logomarca a partir de foto anexada (compatível com Google Flow) | Vídeo     |
+| `/logo-material-assemble` | Montagem dos elementos materiais da logomarca a partir de foto anexada (compatível com Google Flow)        | Vídeo     |
