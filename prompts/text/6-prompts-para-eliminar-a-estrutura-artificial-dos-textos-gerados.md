@@ -1,7 +1,10 @@
 ---
 title: Eliminando estrutura artificial dos textos gerados
 category: prompts
-target_model: Qualquer LLM (Claude, ChatGPT, Gemini)
+target_model:
+  - Claude
+  - ChatGPT
+  - Gemini
 ---
 # Prompts para Eliminar a Estrutura Artificial dos Textos Gerados
 6 prompts para remover clichês, redundâncias e marcas artificiais em textos criados por inteligência artificial.
