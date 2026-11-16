@@ -6,34 +6,36 @@ target_model: "ChatGPT (GPT-4 ou superior)"
 # Comandos Rápidos do ChatGPT
 Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe que alguns comandos inicial com `/`, outros não.
 
-## Lista de 161 Comandos Rápidos
+## Respostas, Análise e Raciocínio
 
-### Respostas, Análise e Raciocínio
-
-| Comando                     | O que faz                                                                                                  |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `/booksummary`              | Resume qualquer livro em pontos-chave                                                                      |
-| `/brainstorm`               | Gera ideias criativas                                                                                      |
-| `/brief`                    | Respostas curtas e diretas                                                                                 |
-| `/ceo`                      | Análise estratégica de fundador                                                                            |
-| `/critic`                   | Encontra pontos fracos e melhorias                                                                         |
-| `/datainterpreter`          | Analisa dados e gera insights                                                                              |
-| `/decisionhelper`           | Ajuda a tomar melhores decisões                                                                            |
-| `/deepthink`                | Analisa em profundidade qualquer tema                                                                      |
-| `eli10`                     | Obtém respostas para uma criança de 10 anos                                                                |
-| `/eli5`                     | Explica como se eu tivesse 5 anos                                                                          |
-| `/expert`                   | Respostas de especialista e mais profundas                                                                 |
-| `/human`                    | Humanizar uma resposta                                                                                     |
-| `jargonize`                 | Obtém respostas técnicas                                                                                   |
-| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                       |
-| `/problemsolver`            | Resolve qualquer problema passo a passo                                                                    |
-| `/promptengineer`           | Melhora qualquer prompt                                                                                    |
-| `/promptimprover`           | Melhora qualquer prompt                                                                                    |
-| `/research`                 | Pesquisa profunda sobre qualquer assunto                                                                   |
-| `/strategy`                 | Planejamento e estratégias de longo prazo                                                                  |
-| `/teacher`                  | Explica de forma simples e didática                                                                        |
-| `TL;DR`                     | Resume documentos ou textos longos                                                                         |
-| `/unpopularopinion`         | Dá opiniões sinceras sobre temas polêmicos                                                                 |
+| Comando                     | O que faz                                                                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| `/actionplan`               | Cria um plano de ação a partir da capa de um livro para aplicar na rotina                                     |
+| `/booksummary`              | Resume qualquer livro em pontos-chave                                                                         |
+| `/brainstorm`               | Gera ideias criativas                                                                                         |
+| `/brief`                    | Respostas curtas e diretas                                                                                    |
+| `/ceo`                      | Análise estratégica de fundador                                                                               |
+| `/clarity`                  | Reescreve o texto para ser entendido em 5 segundos                                                            |
+| `/critic`                   | Encontra pontos fracos e melhorias                                                                            |
+| `/datainterpreter`          | Analisa dados e gera insights                                                                                 |
+| `/decisionhelper`           | Ajuda a tomar melhores decisões                                                                               |
+| `/deepthink`                | Analisa em profundidade qualquer tema                                                                         |
+| `eli10`                     | Obtém respostas para uma criança de 10 anos                                                                   |
+| `/eli5`                     | Explica como se eu tivesse 5 anos (também pode ser usado para transformar o livro em um desenho para criança) |
+| `/expert`                   | Respostas de especialista e mais profundas                                                                    |
+| `/human`                    | Humanizar uma resposta                                                                                        |
+| `jargonize`                 | Obtém respostas técnicas                                                                                      |
+| `listify`                   | Obtém respostas em formato de lista ou passo-a-passo                                                          |
+| `/problemsolver`            | Resolve qualquer problema passo a passo                                                                       |
+| `/promptengineer`           | Melhora qualquer prompt                                                                                       |
+| `/promptimprover`           | Melhora qualquer prompt                                                                                       |
+| `/research`                 | Pesquisa profunda sobre qualquer assunto                                                                      |
+| `/resume`                   | Recebe um resumo rápido de um livro a partir da capa anexada                                                  |
+| `/rewrite`                  | Encontra pontos fracos e cria uma versão melhor do texto                                                      |
+| `/strategy`                 | Planejamento e estratégias de longo prazo                                                                     |
+| `/teacher`                  | Explica de forma simples e didática                                                                           |
+| `TL;DR`                     | Resume documentos ou textos longos                                                                            |
+| `/unpopularopinion`         | Dá opiniões sinceras sobre temas polêmicos                                                                    |
 
 ### Estudo e Aprendizado Visual
 
@@ -42,15 +44,18 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `comic4`                    | Cria uma tirinha de 4 quadros explicando o tema<br>*exemplo:* `comic4 gravidade`                           |
 | `/flashcards`               | Gera cartões de estudo (flashcards) sobre o tema<br>*exemplo:* `/flashcards tabela periódica`              |
 | `/generatehandwrittenimage` | Monta um diagrama explicativo escrito à mão<br>*exemplo:* `/generatehandwrittenimage sistema respiratório` |
+| `/infografico`              | Transforma o conteúdo de um livro (pela capa anexada) em um infográfico visual                             |
 | `/mind-map`                 | Cria um mapa mental visual ramificado sobre o tema<br>*exemplo:* `/mind-map revolução industrial`          |
 | `/quiz-me`                  | Gera um quiz de perguntas para testar o conhecimento<br>*exemplo:* `/quiz-me sistema solar`                |
 | `/skillbuilder`             | Plano de aprendizado personalizado                                                                         |
+| `/sketchnote`               | Cria uma versão desenhada do resumo (estilo notas) a partir da capa de um livro                            |
 | `/step-by-step`             | Explica um tema ou processo dividindo em etapas<br>*exemplo:* `/step-by-step ciclo da água`                |
 | `/sticky-notes`             | Monta notas adesivas explicativas em tópicos<br>*exemplo:* `/sticky-notes 3 leis de Newton`                |
+| `/studyplan`                | Cria um plano para estudar um livro (pela capa anexada) ou um capítulo                                     |
 | `/timelineboard`            | Cria um quadro cronológico com imagens e textos                                                            |
 | `/visualizelearning`        | Monta uma ilustração explicativa ou infográfico<br>*exemplo:* `/visualizelearning fotossíntese`            |
 
-### Marketing, Vendas e Conteúdo
+## Marketing, Vendas e Conteúdo
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -64,10 +69,12 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/emailwizard`              | Escreve emails profissionais                                                                               |
 | `/feedbackgenius`           | Gera feedbacks úteis e construtivos                                                                        |
 | `/growthhack`               | Growth hacks virais para qualquer objetivo                                                                 |
+| `/hook`                     | Cria uma legenda com um gancho que prenda a atenção                                                        |
 | `/instagram`                | Adapta para Instagram                                                                                      |
 | `/linkedinbooster`          | Otimiza perfil e conteúdo no LinkedIn                                                                      |
 | `/metaad` ou `/metaads`     | Criativo pronto para Meta Ads                                                                              |
 | `/moneyideas`               | Ideias de negócios lucrativos                                                                              |
+| `/persuade`                 | Reescreve o texto quebrando uma objeção                                                                    |
 | `/persuasivemode`           | Torna qualquer mensagem persuasiva                                                                         |
 | `/psychowords`              | Palavras que ativam ação e persuasão                                                                       |
 | `/reelscover`               | Capa para Reels                                                                                            |
@@ -79,7 +86,7 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/trendpredictor`           | Prevê tendências futuras do seu nicho                                                                      |
 | `/viral`                    | Composição mais chamativa                                                                                  |
 
-### Carreira, Produtividade e Bem-estar
+## Carreira, Produtividade e Bem-estar
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -99,58 +106,74 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/travelplanner`            | Planeja viagens perfeitas                                                                                  |
 | `/workoutbuddy`             | Treinos personalizados                                                                                     |
 
-### Edição e Melhoria de Imagem
+## Edição e Melhoria de Imagem
 
-| Comando                     | O que faz                                                                                                  |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `/4k`                       | Upscale a imagem para 4K                                                                                   |
-| `/beforeafter`              | Antes e depois                                                                                             |
-| `/blackwhite`               | Preto e branco                                                                                             |
-| `/blur`                     | Aplica blur no fundo da imagem                                                                             |
-| `/cleanup`                  | Limpa imperfeições                                                                                         |
-| `/depth`                    | Aumenta a profundidade                                                                                     |
-| `/fullbody`                 | Transforma a pessoa da foto em corpo inteiro                                                               |
-| `/hdr`                      | Aumenta os detalhes                                                                                        |
-| `/hdreal`                   | Melhora a qualidade de uma foto enviada no prompt                                                          |
-| `/interiormakeover`         | Transforma e redecora o ambiente interno da foto                                                           |
-| `/light`                    | Melhora a iluminação                                                                                       |
-| `/macro`                    | Close extremo com riqueza de detalhes                                                                      |
-| `/mergepeople`              | Une duas ou mais pessoas em uma mesma imagem                                                               |
-| `/newbg`                    | Troca o fundo                                                                                              |
-| `/objectremove`             | Remove um objeto da imagem                                                                                 |
-| `/portrait`                 | Aprimora retratos                                                                                          |
-| `/relight`                  | Altera a iluminação                                                                                        |
-| `/remove`                   | Remove objetos                                                                                             |
-| `/removepeoplebgr`          | Remove pessoas da imagem                                                                                   |
-| `/sharp`                    | Aumenta a nitidez                                                                                          |
-| `/together`                 | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
-| `/transferbg`               | Transfere o fundo de uma imagem para outra                                                                 |
-| `/transferoutfit`           | Transfere a roupa de uma foto para outra                                                                   |
-| `/upscale`                  | Melhora a resolução                                                                                        |
+| Comando                              | O que faz                                                                                                  |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| `/4k`                                | Upscale a imagem para 4K                                                                                   |
+| `/beforeafter`                       | Antes e depois                                                                                             |
+| `/blackwhite`                        | Preto e branco                                                                                             |
+| `/blur`                              | Aplica blur no fundo da imagem                                                                             |
+| `/cleanup`                           | Limpa imperfeições                                                                                         |
+| `/depth`                             | Aumenta a profundidade                                                                                     |
+| `/fullbody`                          | Transforma a pessoa da foto em corpo inteiro                                                               |
+| `/hdr`                               | Aumenta os detalhes                                                                                        |
+| `/hdreal`                            | Melhora a qualidade de uma foto enviada no prompt                                                          |
+| `/interiormakeover`                  | Transforma e redecora o ambiente interno da foto                                                           |
+| `/light`                             | Melhora a iluminação                                                                                       |
+| `/macro`                             | Close extremo com riqueza de detalhes                                                                      |
+| `/mergepeople`                       | Une duas ou mais pessoas em uma mesma imagem                                                               |
+| `/newbg`                             | Troca o fundo                                                                                              |
+| `/objectremove`                      | Remove um objeto da imagem                                                                                 |
+| `/portrait`                          | Aprimora retratos                                                                                          |
+| `/relight`                           | Altera a iluminação                                                                                        |
+| `/remove`                            | Remove objetos                                                                                             |
+| `/removepeoplebgr`                   | Remove pessoas da imagem                                                                                   |
+| `/sharp`                             | Aumenta a nitidez                                                                                          |
+| `/together`                          | Entrega uma foto com 2 pessoas no mesmo cenário                                                            |
+| `/transferbg`                        | Transfere o fundo de uma imagem para outra                                                                 |
+| `/transfercameraanglefrom1to2`       | Transfere o ângulo de câmera da foto 1 para a foto 2 (anexando 2 fotografias)                              |
+| `/transferfacialexpressionfrom1to2`  | Transfere a expressão facial da foto 1 para a foto 2 (anexando 2 fotografias)                              |
+| `/transferhair1to2`                  | Transfere o cabelo da foto 1 para a foto 2 (anexando 2 fotografias)                                        |
+| `/transfermakeupfrommodel1to2`       | Transfere a maquiagem da modelo da foto 1 para a foto 2 (anexando 2 fotografias)                           |
+| `/transferoutfit`                    | Transfere a roupa de uma foto para outra                                                                   |
+| `/transferposefrom1to2`              | Transfere a pose da foto 1 para a foto 2 (anexando 2 fotografias)                                          |
+| `/upscale`                           | Melhora a resolução                                                                                        |
 
-### Fotos Profissionais, Estúdio e Campanhas
+## Fotos Profissionais, Estúdio e Campanhas
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | `/advertising`              | Foto publicitária                                                                                          |
+| `/editorial`                | Capa de revista                                                                                            |
 | `/fashion`                  | Editorial de moda                                                                                          |
 | `fashioncampaign`           | Cria foto para campanha publicitária de moda                                                               |
+| `/flash`                    | Como se fosse tirada com flash                                                                             |
+| `/foodphoto`                | Vira foto de cardápio                                                                                      |
+| `/headshot`                 | Vira foto de perfil                                                                                        |
 | `/lifestyle`                | Insere o produto ou pessoa em um contexto real do dia a dia                                                |
 | `/luxury`                   | Estética sofisticada e luxuosa                                                                             |
 | `/luxurylifestyle`          | Mostra o prodato em um contexto de estilo de vida luxuoso                                                  |
 | `/magazine`                 | Capa de revista                                                                                            |
+| `/minimal`                  | Limpa tudo e simplifica                                                                                    |
+| `/moody`                    | Clima mais dramático                                                                                       |
+| `/nightphoto`               | Vira foto noturna                                                                                          |
 | `/paparazzi`                | Foto espontânea, crua e cheia de vida                                                                      |
 | `/polaroid`                 | Efeito retrô, afetivo e instantâneo                                                                        |
 | `/poster`                   | Cria pôster                                                                                                |
+| `/productpremium`           | Foto premium de produto                                                                                    |
 | `/productshot`              | Foto profissional de estúdio                                                                               |
 | `/proshot`                  | Foto profissional                                                                                          |
 | `/rawphoto`                 | Foto leve, natural e realista                                                                              |
+| `/selfie`                   | Transforma em selfie                                                                                       |
 | `/shotsetup`                | Mostra o diagrama de luzes da foto                                                                         |
 | `/showcase`                 | Foto publicitária premium                                                                                  |
 | `/studio`                   | Cria cenário de estúdio                                                                                    |
 | `/studiopro`                | Fotos de portfólio profissional com iluminação de estúdio                                                  |
+| `/ugc`                      | Parece gravado por um cliente                                                                              |
+| `/workspace`                | Coloca numa mesa de trabalho                                                                               |
 
-### Personagens, Bonecos e Miniaturas
+## Personagens, Bonecos e Miniaturas
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -168,7 +191,7 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/toy`                      | Estilo action figure                                                                                       |
 | `/toybox`                   | Mostra o produto dentro de uma caixa de brinquedo                                                          |
 
-### 3D, Cortes e Vistas Técnicas
+## 3D, Cortes e Vistas Técnicas
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -186,7 +209,7 @@ Referência de comandos curtos para acelerar o uso cotidiano do ChatGPT. Observe
 | `/isometricroom`            | Cria um ambiente em 3D com vista isométrica                                                                |
 | `/xray`                     | Mostra o interior do objeto (raio-x)                                                                       |
 
-### Cenários, Efeitos e Estilos
+## Cenários, Efeitos e Estilos
 
 | Comando                     | O que faz                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -453,3 +476,13 @@ Use esses comandos para explorar diferentes efeitos de iluminação nas suas fot
 | `/streetstyle`              | Estilo urbano (streetwear) com camiseta estampada e gorro        |
 | `/vintagechic`              | Estilo retrô elegante com blusa de laço, poá e cintura alta      |
 | `/workchic`                 | Visual executivo elegante com blazer de alfaiataria e camisa     |
+
+## Estilos Artísticos e Ilustração
+
+| Comando                     | O que faz                                                        |
+| --------------------------- | ---------------------------------------------------------------- |
+| `/anime`                    | Estilo anime                                                     |
+| `/comic`                    | Estilo história em quadrinhos                                    |
+| `/sketch`                   | Vira desenho                                                     |
+| `/sticker`                  | Vira figurinha                                                   |
+| `/watercolor`               | Pintura em aquarela                                              |

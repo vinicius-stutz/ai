@@ -31,19 +31,27 @@ target_model: Gemini 3.0 ou superior
 
 ## Ângulos Avançados de Câmera
 
-| Comando          | O que faz                                      |
-| ---------------- | ---------------------------------------------- |
-| `/cranedown`     | Desce a câmera suavemente                      |
-| `/craneup`       | Eleva a câmera dramaticamente                  |
-| `/establishing`  | Cria um plano de ambientação cinematográfico   |
-| `/handheld`      | Cria movimento realista de câmera na mão       |
-| `/highangle`     | Filma de cima para baixo para uma perspectiva dramática |
-| `/lowangle`      | Filma de baixo para cima para um visual imponente |
-| `/overhead`      | Cria uma vista de topo direto de cima          |
-| `/overtheshoulder` | Cria um plano por cima do ombro              |
-| `/pov`           | Mostra a cena em primeira pessoa               |
-| `/rackfocus`     | Transiciona o foco suavemente entre sujeitos   |
-| `/steadicam`     | Cria movimento suave de câmera caminhando      |
+| Comando            | O que faz                                                                                          | Propósito |
+| ------------------ | -------------------------------------------------------------------------------------------------- | --------- |
+| `/cranedown`       | Desce a câmera suavemente                                                                          |           |
+| `/craneup`         | Eleva a câmera dramaticamente                                                                      |           |
+| `/establishing`    | Cria um plano de ambientação cinematográfico                                                       |           |
+| `/handheld`        | Cria movimento realista de câmera na mão                                                           |           |
+| `/headroom`        | Ajusta o espaço acima da cabeça do sujeito a partir de foto anexada (compatível com Google Flow)   | Vídeo     |
+| `/helicopterview`  | Gera vista aérea de helicóptero a partir de foto anexada (compatível com Google Flow)              | Vídeo     |
+| `/highangle`       | Filma de cima para baixo para uma perspectiva dramática                                            |           |
+| `/jib`             | Movimento de grua/braço articulado a partir de foto anexada (compatível com Google Flow)           | Vídeo     |
+| `/lowangle`        | Filma de baixo para cima para um visual imponente                                                  |           |
+| `/overhead`        | Cria uma vista de topo direto de cima                                                              |           |
+| `/overtheshoulder` | Cria um plano por cima do ombro                                                                    |           |
+| `/pov`             | Mostra a cena em primeira pessoa                                                                   |           |
+| `/pushreveal`      | Aproxima a câmera revelando a cena a partir de foto anexada (compatível com Google Flow)           | Vídeo     |
+| `/quickplan`       | Movimento panorâmico rápido a partir de foto anexada (compatível com Google Flow)                  | Vídeo     |
+| `/quicktilt`       | Inclinação vertical rápida da câmera a partir de foto anexada (compatível com Google Flow)         | Vídeo     |
+| `/rackfocus`       | Transiciona o foco suavemente entre sujeitos                                                       |           |
+| `/steadicam`       | Cria movimento suave de câmera caminhando                                                          |           |
+| `/vastview`        | Abre o ângulo para paisagem ampla a partir de foto anexada (compatível com Google Flow)            | Vídeo     |
+| `/vertigo`         | Efeito dolly zoom que distorce a perspectiva a partir de foto anexada (compatível com Google Flow) | Vídeo     |
 
 ## Movimento e Ação
 
@@ -190,3 +198,12 @@ target_model: Gemini 3.0 ou superior
 | --------------- | -------------------------------------------------- | --------- |
 | `/explodedview` | Vista explodida mostrando as peças separadas no ar | Vídeo     |
 | `/teardown`     | Desmontagem visual de um equipamento               | Vídeo     |
+
+## Análise de Livros
+
+| Comando     | O que faz                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| `/clarity`  | Traz os principais eixos metodológicos que o livro aborda (anexando a capa)                   |
+| `/critic`   | Traz uma visão crítica do livro (anexando a capa)                                             |
+| `/research` | Traz os principais eixos temáticos do livro (anexando a capa)                                 |
+| `/teacher`  | Resume os temas mais importantes do livro no ponto de vista de um professor (anexando a capa) |

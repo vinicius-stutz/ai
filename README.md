@@ -271,6 +271,7 @@ Configurações de sistema para personalizar o comportamento das IAs:
 - [Aplique Técnicas de Escrita Humana](prompts/text/aplique-tecnicas-de-escrita-humana.md) | Humanize textos gerados por IA
 - [Avaliação Crítica de Textos](prompts/text/avaliacao-critica-de-textos.md) | Análise profunda de qualidade textual
 - [Capture seu Estilo de Escrita](prompts/text/capture-seu-estilo-de-escrita.md) | Replica seu estilo pessoal de escrita fielmente
+- [Criador de conteúdo](prompts/text/criador-de-conteudos.md) | Economize horas de trabalho e receba respostas inteligentes da IA
 - [Criar Estrutura de Texto sobre um Tema](prompts/text/criar-estrutura-de-texto-sobre-um-tema.md) | Esqueleto narrativo para qualquer tipo de texto
 - [Questione a Narrativa Convencional](prompts/text/questione-a-narrativa-convencional.md) | Perspectivas alternativas e contra-intuitivas
 - [Reescrever para Obter Maior Clareza](prompts/text/reescrever-para-obter-maior-clareza.md) | Simplifica textos complexos sem perder profundidade
